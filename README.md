@@ -1,5 +1,7 @@
 # EduEmotion AI: Emotion-Aware Personalized Learning Support Platform
 
+Developed by Shankar-sssj.
+
 An end-to-end sentiment framework that translates student study challenges, bug reports, and homework frustrations into personalized, empathetic learning support roadmaps. It combines machine learning classifiers, neural networks, and generative AI guidance.
 
 ## Project Structure
