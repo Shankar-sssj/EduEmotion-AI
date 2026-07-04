@@ -29,7 +29,7 @@ emotion-learning-assistant/
 
 ### 1. Set Workspace (Recommended)
 Before running, set the project directory as your active workspace:
-`C:\Users\RAJESH\.gemini\antigravity\scratch\emotion-learning-assistant`
+`C:\Users\shank\OneDrive\Desktop\emotion-learning-assistant`
 
 ### 2. Install Dependencies
 Install all package requirements in your environment:
