@@ -1,0 +1,687 @@
+Timestamp,Student_Text,Predicted_Emotion,Confidence_Score,Model_Used,Gemini_Response
+2026-07-02 15:25:30,This calculus lecture is extremely dry and I can't stay awake. Why are we doing this?,Bored,0.5882,Fallback TF-IDF Classifier,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 💡 Shake Things Up!
+It's completely normal to feel **Bored** when working on repetitive exercises. Often, textbooks present concepts in a very dry way, making it hard to see the big picture.
+
+**Let's look at this differently:**
+Instead of just memorizing the syntax or formulas, think about how this is applied in the real world. For example, did you know that the algorithms you're studying are used to power Netflix recommendations or control flight patterns? Finding a cool project can immediately turn boredom into excitement!
+
+**Here are your next steps:**
+*   **Find a Real Application:** Google how the topic you're studying is used in gaming, finance, or space exploration.
+*   **Build a Mini-Project:** Instead of solving abstract problems, write a small script that does something fun (e.g., a simple text game or a web scraper).
+*   **Take a Quick Break:** Step away from the screen for 5 minutes, stretch, and come back with a fresh perspective.
+
+*Remember: Every expert developer and scientist had to learn the basics. You can do this!*
+
+"
+2026-07-02 15:25:30,I'm so bored of these basic coding worksheets. They feel like complete busywork.,Bored,0.3478,Fallback TF-IDF Classifier,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 💡 Shake Things Up!
+It's completely normal to feel **Bored** when working on repetitive exercises. Often, textbooks present concepts in a very dry way, making it hard to see the big picture.
+
+**Let's look at this differently:**
+Instead of just memorizing the syntax or formulas, think about how this is applied in the real world. For example, did you know that the algorithms you're studying are used to power Netflix recommendations or control flight patterns? Finding a cool project can immediately turn boredom into excitement!
+
+**Here are your next steps:**
+*   **Find a Real Application:** Google how the topic you're studying is used in gaming, finance, or space exploration.
+*   **Build a Mini-Project:** Instead of solving abstract problems, write a small script that does something fun (e.g., a simple text game or a web scraper).
+*   **Take a Quick Break:** Step away from the screen for 5 minutes, stretch, and come back with a fresh perspective.
+
+*Remember: Every expert developer and scientist had to learn the basics. You can do this!*
+
+"
+2026-07-02 15:25:30,I managed to solve all the algorithm problems on my first attempt! I feel fully prepared.,Confident,0.5032,Fallback TF-IDF Classifier,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🚀 Keep Up the Excellent Work!
+Fantastic job! You're feeling **Confident**, and it's clear you've got a solid grasp of this material. Celebrate this win—when things click, it means your hard work is paying off.
+
+**Here is how you can push yourself further:**
+To truly cement your knowledge, try to explain it to someone else or explore more advanced concepts. Teaching is the ultimate test of understanding!
+
+**Here are your next steps:**
+*   **Optimize Your Solution:** Can you make your code run faster or use less memory? Look into Big-O notation.
+*   **Explain the Concept:** Try explaining what you just did to a peer, a TA, or even summarize it in writing.
+*   **Try a Harder Challenge:** If you're coding, head over to LeetCode or HackerRank and try a medium/hard problem on this topic.
+
+*You're on a roll! Keep feeding that momentum.*
+
+"
+2026-07-02 15:25:30,This lab was very straightforward. I understand how pointers work now.,Frustrated,0.2835,Fallback TF-IDF Classifier,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 15:25:30,I'm completely lost on how recursion works. Can you explain the base case again?,Confused,0.7061,Fallback TF-IDF Classifier,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🔍 Take a Deep Breath – Confused is Where Learning Begins!
+It is absolutely okay to feel **Confused**. In fact, confusion is the feeling of your brain actively building new neural pathways to understand something new!
+
+**Let's break this down:**
+When a concept (like recursion or database joins) feels overwhelming, it's usually because we're trying to digest too much at once. Let's simplify the problem by isolating the smallest piece that you *do* understand.
+
+**Here are your next steps:**
+*   **Isolate the Core:** Write down the exact line of code or step in the math equation where you get lost.
+*   **Use Visuals:** Draw a diagram or trace variables on a piece of paper. Visualizing recursion trees or table relations helps immensely.
+*   **Ask a Specific Question:** Frame your confusion as: *""I understand X, but when Y happens, I don't see why it equals Z.""*
+
+*Stay patient with yourself. You're closer to understanding this than you think!*
+
+"
+2026-07-02 15:25:30,I don't understand the difference between lists and dictionaries in Python.,Confused,0.5136,Fallback TF-IDF Classifier,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🔍 Take a Deep Breath – Confused is Where Learning Begins!
+It is absolutely okay to feel **Confused**. In fact, confusion is the feeling of your brain actively building new neural pathways to understand something new!
+
+**Let's break this down:**
+When a concept (like recursion or database joins) feels overwhelming, it's usually because we're trying to digest too much at once. Let's simplify the problem by isolating the smallest piece that you *do* understand.
+
+**Here are your next steps:**
+*   **Isolate the Core:** Write down the exact line of code or step in the math equation where you get lost.
+*   **Use Visuals:** Draw a diagram or trace variables on a piece of paper. Visualizing recursion trees or table relations helps immensely.
+*   **Ask a Specific Question:** Frame your confusion as: *""I understand X, but when Y happens, I don't see why it equals Z.""*
+
+*Stay patient with yourself. You're closer to understanding this than you think!*
+
+"
+2026-07-02 15:25:30,How does memory allocation actually work under the hood in C++?,Curious,0.2812,Fallback TF-IDF Classifier,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🌟 Love the Curiosity!
+It's wonderful that you're feeling **Curious**! Asking ""why"" and wanting to know what happens under the hood is what separates good developers and engineers from great ones.
+
+**Let's explore this:**
+When you're curious about how a system scales or why an algorithm works, the best approach is hands-on experimentation. Modify parameters, read source code, and run benchmarks.
+
+**Here are your next steps:**
+*   **Experiment:** Change parameters in your code or mathematical models and observe the exact outputs.
+*   **Read Documentation:** Check the official developer docs or academic papers to see how standard libraries implement these functions.
+*   **Deep Dive:** Write a blog post or markdown file summarizing your findings—it's a great addition to a portfolio!
+
+*Never stop asking questions. Your curiosity will take you very far!*
+
+"
+2026-07-02 15:25:30,Is there a more efficient algorithm to solve search queries on large databases?,Curious,0.2901,Fallback TF-IDF Classifier,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🌟 Love the Curiosity!
+It's wonderful that you're feeling **Curious**! Asking ""why"" and wanting to know what happens under the hood is what separates good developers and engineers from great ones.
+
+**Let's explore this:**
+When you're curious about how a system scales or why an algorithm works, the best approach is hands-on experimentation. Modify parameters, read source code, and run benchmarks.
+
+**Here are your next steps:**
+*   **Experiment:** Change parameters in your code or mathematical models and observe the exact outputs.
+*   **Read Documentation:** Check the official developer docs or academic papers to see how standard libraries implement these functions.
+*   **Deep Dive:** Write a blog post or markdown file summarizing your findings—it's a great addition to a portfolio!
+
+*Never stop asking questions. Your curiosity will take you very far!*
+
+"
+2026-07-02 15:25:30,This code keeps throwing a Segmentation Fault error and I've been stuck for 5 hours!,Frustrated,0.4804,Fallback TF-IDF Classifier,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 15:25:31,Nothing is working! The database connection keeps timing out and it's driving me crazy.,Frustrated,0.5272,Fallback TF-IDF Classifier,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 15:29:30,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF Classifier (BiLSTM Untrained),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `400 API key not valid. Please pass a valid API key. [reason: ""API_KEY_INVALID""
+domain: ""googleapis.com""
+metadata {
+  key: ""service""
+  value: ""generativelanguage.googleapis.com""
+}
+, locale: ""en-US""
+message: ""API key not valid. Please pass a valid API key.""
+]`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 15:29:30,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Confused,0.2,Rule-Based (Default),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `400 API key not valid. Please pass a valid API key. [reason: ""API_KEY_INVALID""
+domain: ""googleapis.com""
+metadata {
+  key: ""service""
+  value: ""generativelanguage.googleapis.com""
+}
+, locale: ""en-US""
+message: ""API key not valid. Please pass a valid API key.""
+]`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🔍 Take a Deep Breath – Confused is Where Learning Begins!
+It is absolutely okay to feel **Confused**. In fact, confusion is the feeling of your brain actively building new neural pathways to understand something new!
+
+**Let's break this down:**
+When a concept (like recursion or database joins) feels overwhelming, it's usually because we're trying to digest too much at once. Let's simplify the problem by isolating the smallest piece that you *do* understand.
+
+**Here are your next steps:**
+*   **Isolate the Core:** Write down the exact line of code or step in the math equation where you get lost.
+*   **Use Visuals:** Draw a diagram or trace variables on a piece of paper. Visualizing recursion trees or table relations helps immensely.
+*   **Ask a Specific Question:** Frame your confusion as: *""I understand X, but when Y happens, I don't see why it equals Z.""*
+
+*Stay patient with yourself. You're closer to understanding this than you think!*
+
+"
+2026-07-02 15:29:37,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF Classifier (BiLSTM Untrained),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `400 API key not valid. Please pass a valid API key. [reason: ""API_KEY_INVALID""
+domain: ""googleapis.com""
+metadata {
+  key: ""service""
+  value: ""generativelanguage.googleapis.com""
+}
+, locale: ""en-US""
+message: ""API key not valid. Please pass a valid API key.""
+]`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 15:29:38,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF Classifier (BiLSTM Untrained),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `400 API key not valid. Please pass a valid API key. [reason: ""API_KEY_INVALID""
+domain: ""googleapis.com""
+metadata {
+  key: ""service""
+  value: ""generativelanguage.googleapis.com""
+}
+, locale: ""en-US""
+message: ""API key not valid. Please pass a valid API key.""
+]`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 16:07:52,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF Classifier (BiLSTM Untrained),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 16:09:32,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF Classifier (BiLSTM Untrained),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 20:44:09,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 20:44:09,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 20:47:58,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF Classifier (BiLSTM Untrained),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 20:47:59,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF Classifier (BiLSTM Untrained),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 20:48:06,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF Classifier (BiLSTM Untrained),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 20:51:28,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 20:52:00,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF Classifier (BiLSTM Untrained),"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 20:52:03,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF Classifier (BiLSTM Untrained),"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 20:52:08,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.2727,Fallback TF-IDF Classifier (Transformers Missing),"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 22:20:04,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF,"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 22:20:30,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.2727,Fallback TF-IDF Classifier (Transformers Missing),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 22:20:41,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF Classifier (BiLSTM Untrained),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 22:23:50,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF Classifier (BiLSTM Untrained),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 23:12:45,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF,"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 23:13:39,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.2727,Fallback TF-IDF Classifier (Transformers Missing),"**[AI Assistant Error]** Could not communicate with Gemini API. Error details: `404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.`.
+
+*Below is a simulated response based on the detected emotion:*
+
+
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-02 23:20:42,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"
+2026-07-04 16:13:21,I've been stuck on this recursion code for hours and my base case keeps causing a stack overflow! I'm so close to giving up.,Frustrated,0.337,Fallback TF-IDF,"
+> ⚠️ **[Demo Mode]** Generating simulated response because no Gemini API key is configured. You can input your API key in the sidebar or Settings tab to enable live AI responses.
+    
+
+### 🛠️ We've All Been There – Let's Tackle This Together!
+I hear you, and your **Frustration** is 100% valid. Getting stuck on environment setups, compilation bugs, or logic errors is incredibly draining and can make you want to throw your laptop.
+
+**Let's debug this systematically:**
+When frustration peaks, our ability to think logically declines. The best thing you can do right now is step back, clear your mind, and approach the bug from a clean slate.
+
+**Here are your next steps:**
+*   **Step Away:** Take a 10-minute break. Don't look at the screen. Walk, drink water, or stretch.
+*   **Print Debugging:** Add simple print statements or use a debugger to check the exact state of variables right before the crash.
+*   **Rubber Ducking:** Explain your code or problem out loud (to a roommate, a pet, or even a rubber duck) line-by-line. You'll often spot the error yourself!
+
+*Don't give up. The feeling of relief when you finally fix this bug will be absolutely worth it!*
+
+"

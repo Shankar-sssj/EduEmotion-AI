@@ -1,0 +1,13 @@
+streamlit>=1.30.0
+pandas>=2.0.0
+numpy>=1.24.0
+plotly>=5.18.0
+google-genai>=2.10.0
+scikit-learn>=1.3.0
+nltk>=3.8
+# Optional deep learning dependencies (fallbacks are implemented if missing)
+# TensorFlow is optional and may not be available on Python 3.14.
+# Uncomment TensorFlow only if your Python environment supports it and you need BiLSTM training.
+# tensorflow>=2.21.0; python_version >= "3.13"
+transformers>=5.13.0
+torch>=2.12.1

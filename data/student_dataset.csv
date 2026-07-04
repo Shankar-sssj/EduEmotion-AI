@@ -1,0 +1,1576 @@
+text,emotion
+"This is so dry and boring, I can't stay focused.",Bored
+Why do we need to learn this? It has no real-world use.,Bored
+I am falling asleep reading these slides.,Bored
+This topic is completely uninteresting to me.,Bored
+"I don't care about this formula, it's just memorization.",Bored
+This lecture feels like it's going on forever.,Bored
+"I'm just staring at the screen, totally unengaged.",Bored
+None of this seems relevant to what I actually want to do.,Bored
+I find this subject incredibly dull.,Bored
+Why is this module so tedious?,Bored
+I am losing interest in this class rapidly.,Bored
+This is just repetitive busywork.,Bored
+I'm bored out of my mind with these programming exercises.,Bored
+"This math proof is so dry, I can't bring myself to study it.",Bored
+I've lost all motivation to complete this reading list.,Bored
+I completely understand how this algorithm works now!,Confident
+"This makes perfect sense, it's very logical.",Confident
+I solved all the practice problems on my first try.,Confident
+I feel fully prepared for the upcoming exam.,Confident
+This concept is very easy for me to grasp.,Confident
+I can explain this topic to my classmates without any issues.,Confident
+I've got a solid handle on this material.,Confident
+The lab was straightforward and I finished it early.,Confident
+I'm confident I can write this script from scratch.,Confident
+This is clicking for me perfectly.,Confident
+I know exactly how to debug this issue now.,Confident
+I have mastered this chapter already.,Confident
+This assignment is going to be a breeze.,Confident
+I understand the theory and the application completely.,Confident
+"I've got this, no extra help needed.",Confident
+I am completely lost on how recursion works.,Confused
+What does this equation actually represent?,Confused
+I don't understand the difference between these two terms.,Confused
+Can you explain this logic step-by-step again?,Confused
+I don't get why we use a pointer here.,Confused
+The lecture explanation went completely over my head.,Confused
+I'm struggling to see how these two concepts connect.,Confused
+I don't know where to start with this coding challenge.,Confused
+The instructions for this project are very vague.,Confused
+"I am baffled by this error message, what does it mean?",Confused
+Could someone clarify the difference between inheritance and polymorphism?,Confused
+I'm having trouble understanding how to calculate this limit.,Confused
+Why did the value change in this step of the calculation?,Confused
+I don't understand how to set up the base case here.,Confused
+I'm confused about when to use a list vs a dictionary.,Confused
+How does this library optimize search queries under the hood?,Curious
+Is there a more efficient way to solve this problem?,Curious
+Can we apply this machine learning model to financial data?,Curious
+What happens if I change the learning rate to a very high value?,Curious
+I'd love to learn more about the history of this theorem.,Curious
+Are there any real-world applications of quantum computing in this field?,Curious
+I want to explore how this algorithm behaves with larger datasets.,Curious
+What is the mathematical proof behind this approximation?,Curious
+How does the browser parse this specific style attribute?,Curious
+Can we combine these two design patterns in a single project?,Curious
+I'm interested in reading the original research paper on this.,Curious
+How do top companies handle this scaling challenge?,Curious
+What is the difference between this implementation and the industry standard?,Curious
+I wonder if we can use recursion instead of iteration here to make it cleaner.,Curious
+How does memory management work for this data structure?,Curious
+I've been stuck on this bug for five hours and I want to quit.,Frustrated
+This code is throwing errors and nothing I do fixes it.,Frustrated
+This compiler error makes absolutely no sense to me!,Frustrated
+"I'm so annoyed with this assignment, it's taking way too long.",Frustrated
+Nothing is working and I feel like pulling my hair out.,Frustrated
+Why is this tool so hard to configure and set up?,Frustrated
+I keep getting a syntax error but my syntax looks completely fine.,Frustrated
+"This is incredibly frustrating, I've restarted three times.",Frustrated
+I'm about to give up on this project entirely.,Frustrated
+I've read the documentation ten times and I still don't get it.,Frustrated
+"This environment setup is a nightmare, nothing is installing.",Frustrated
+My code works on my local machine but fails on the autograder!,Frustrated
+I am so sick of dealing with these merge conflicts.,Frustrated
+This database connection keeps timing out and it's driving me crazy.,Frustrated
+I've tried everything and it's still not working.,Frustrated
+"Honestly, programming is so boring.",Bored
+"honestly, programming is so boring",Bored
+"Honestly, programming is so boring.!",Bored
+"Honestly, honestly, programming is so boring.",Bored
+"I feel like honestly, programming is so boring.",Bored
+I can't pay attention to programming lectures at all.,Bored
+i can't pay attention to programming lectures at all,Bored
+I can't pay attention to programming lectures at all.!,Bored
+"Honestly, i can't pay attention to programming lectures at all.",Bored
+I feel like i can't pay attention to programming lectures at all.,Bored
+Why do we study programming? It's just pointless memorization.,Bored
+why do we study programming? it's just pointless memorization,Bored
+Why do we study programming? It's just pointless memorization.!,Bored
+"Honestly, why do we study programming? It's just pointless memorization.",Bored
+I feel like why do we study programming? It's just pointless memorization.,Bored
+Struggling to stay awake while studying programming.,Bored
+struggling to stay awake while studying programming,Bored
+Struggling to stay awake while studying programming.!,Bored
+"Honestly, struggling to stay awake while studying programming.",Bored
+I feel like struggling to stay awake while studying programming.,Bored
+This programming textbook is the most tedious thing I've ever read.,Bored
+this programming textbook is the most tedious thing i've ever read,Bored
+This programming textbook is the most tedious thing I've ever read.!,Bored
+"Honestly, this programming textbook is the most tedious thing I've ever read.",Bored
+I feel like this programming textbook is the most tedious thing I've ever read.,Bored
+I feel really good about my understanding of programming.,Confident
+i feel really good about my understanding of programming,Confident
+I feel really good about my understanding of programming.!,Confident
+"Honestly, i feel really good about my understanding of programming.",Confident
+I feel like i feel really good about my understanding of programming.,Confident
+I solved all the programming homework problems easily.,Confident
+i solved all the programming homework problems easily,Confident
+I solved all the programming homework problems easily.!,Confident
+"Honestly, i solved all the programming homework problems easily.",Confident
+I feel like i solved all the programming homework problems easily.,Confident
+I'm ready to ace this programming test.,Confident
+i'm ready to ace this programming test,Confident
+I'm ready to ace this programming test.!,Confident
+"Honestly, i'm ready to ace this programming test.",Confident
+I feel like i'm ready to ace this programming test.,Confident
+Understanding programming has been super smooth for me.,Confident
+understanding programming has been super smooth for me,Confident
+Understanding programming has been super smooth for me.!,Confident
+"Honestly, understanding programming has been super smooth for me.",Confident
+I feel like understanding programming has been super smooth for me.,Confident
+I can confidently implement the core concepts of programming.,Confident
+i can confidently implement the core concepts of programming,Confident
+I can confidently implement the core concepts of programming.!,Confident
+"Honestly, i can confidently implement the core concepts of programming.",Confident
+I feel like i can confidently implement the core concepts of programming.,Confident
+I'm completely lost when it comes to programming.,Confused
+i'm completely lost when it comes to programming,Confused
+I'm completely lost when it comes to programming.!,Confused
+"Honestly, i'm completely lost when it comes to programming.",Confused
+I feel like i'm completely lost when it comes to programming.,Confused
+Can someone help explain programming? I don't understand it.,Confused
+can someone help explain programming? i don't understand it,Confused
+Can someone help explain programming? I don't understand it.!,Confused
+"Honestly, can someone help explain programming? I don't understand it.",Confused
+I feel like can someone help explain programming? I don't understand it.,Confused
+I don't know what is going on in programming class.,Confused
+i don't know what is going on in programming class,Confused
+I don't know what is going on in programming class.!,Confused
+"Honestly, i don't know what is going on in programming class.",Confused
+I feel like i don't know what is going on in programming class.,Confused
+The concept of programming is very confusing to me.,Confused
+the concept of programming is very confusing to me,Confused
+The concept of programming is very confusing to me.!,Confused
+"Honestly, the concept of programming is very confusing to me.",Confused
+I feel like the concept of programming is very confusing to me.,Confused
+"I'm stuck on programming basics, I need a tutor.",Confused
+"i'm stuck on programming basics, i need a tutor",Confused
+"I'm stuck on programming basics, I need a tutor.!",Confused
+"Honestly, i'm stuck on programming basics, I need a tutor.",Confused
+"I feel like i'm stuck on programming basics, I need a tutor.",Confused
+I really want to dive deeper into programming applications.,Curious
+i really want to dive deeper into programming applications,Curious
+I really want to dive deeper into programming applications.!,Curious
+"Honestly, i really want to dive deeper into programming applications.",Curious
+I feel like i really want to dive deeper into programming applications.,Curious
+I'm curious about how programming works in the industry.,Curious
+i'm curious about how programming works in the industry,Curious
+I'm curious about how programming works in the industry.!,Curious
+"Honestly, i'm curious about how programming works in the industry.",Curious
+I feel like i'm curious about how programming works in the industry.,Curious
+How does programming relate to real-world software systems?,Curious
+how does programming relate to real-world software systems?,Curious
+How does programming relate to real-world software systems?!,Curious
+"Honestly, how does programming relate to real-world software systems?",Curious
+I feel like how does programming relate to real-world software systems?,Curious
+I want to know more about the advanced topics in programming.,Curious
+i want to know more about the advanced topics in programming,Curious
+I want to know more about the advanced topics in programming.!,Curious
+"Honestly, i want to know more about the advanced topics in programming.",Curious
+I feel like i want to know more about the advanced topics in programming.,Curious
+Are there any projects I can build to master programming?,Curious
+are there any projects i can build to master programming?,Curious
+Are there any projects I can build to master programming?!,Curious
+"Honestly, are there any projects I can build to master programming?",Curious
+I feel like are there any projects I can build to master programming?,Curious
+I'm so frustrated with this programming homework.,Frustrated
+i'm so frustrated with this programming homework,Frustrated
+I'm so frustrated with this programming homework.!,Frustrated
+"Honestly, i'm so frustrated with this programming homework.",Frustrated
+I feel like i'm so frustrated with this programming homework.,Frustrated
+I've been trying to solve this programming issue for hours.,Frustrated
+i've been trying to solve this programming issue for hours,Frustrated
+I've been trying to solve this programming issue for hours.!,Frustrated
+"Honestly, i've been trying to solve this programming issue for hours.",Frustrated
+I feel like i've been trying to solve this programming issue for hours.,Frustrated
+This programming lab is absolute torture.,Frustrated
+this programming lab is absolute torture,Frustrated
+This programming lab is absolute torture.!,Frustrated
+"Honestly, this programming lab is absolute torture.",Frustrated
+I feel like this programming lab is absolute torture.,Frustrated
+I keep failing the tests for programming and I'm losing my mind.,Frustrated
+i keep failing the tests for programming and i'm losing my mind,Frustrated
+I keep failing the tests for programming and I'm losing my mind.!,Frustrated
+"Honestly, i keep failing the tests for programming and I'm losing my mind.",Frustrated
+I feel like i keep failing the tests for programming and I'm losing my mind.,Frustrated
+Nothing makes sense in programming and it's extremely annoying.,Frustrated
+nothing makes sense in programming and it's extremely annoying,Frustrated
+Nothing makes sense in programming and it's extremely annoying.!,Frustrated
+"Honestly, nothing makes sense in programming and it's extremely annoying.",Frustrated
+I feel like nothing makes sense in programming and it's extremely annoying.,Frustrated
+"Honestly, calculus is so boring.",Bored
+"honestly, calculus is so boring",Bored
+"Honestly, calculus is so boring.!",Bored
+"Honestly, honestly, calculus is so boring.",Bored
+"I feel like honestly, calculus is so boring.",Bored
+I can't pay attention to calculus lectures at all.,Bored
+i can't pay attention to calculus lectures at all,Bored
+I can't pay attention to calculus lectures at all.!,Bored
+"Honestly, i can't pay attention to calculus lectures at all.",Bored
+I feel like i can't pay attention to calculus lectures at all.,Bored
+Why do we study calculus? It's just pointless memorization.,Bored
+why do we study calculus? it's just pointless memorization,Bored
+Why do we study calculus? It's just pointless memorization.!,Bored
+"Honestly, why do we study calculus? It's just pointless memorization.",Bored
+I feel like why do we study calculus? It's just pointless memorization.,Bored
+Struggling to stay awake while studying calculus.,Bored
+struggling to stay awake while studying calculus,Bored
+Struggling to stay awake while studying calculus.!,Bored
+"Honestly, struggling to stay awake while studying calculus.",Bored
+I feel like struggling to stay awake while studying calculus.,Bored
+This calculus textbook is the most tedious thing I've ever read.,Bored
+this calculus textbook is the most tedious thing i've ever read,Bored
+This calculus textbook is the most tedious thing I've ever read.!,Bored
+"Honestly, this calculus textbook is the most tedious thing I've ever read.",Bored
+I feel like this calculus textbook is the most tedious thing I've ever read.,Bored
+I feel really good about my understanding of calculus.,Confident
+i feel really good about my understanding of calculus,Confident
+I feel really good about my understanding of calculus.!,Confident
+"Honestly, i feel really good about my understanding of calculus.",Confident
+I feel like i feel really good about my understanding of calculus.,Confident
+I solved all the calculus homework problems easily.,Confident
+i solved all the calculus homework problems easily,Confident
+I solved all the calculus homework problems easily.!,Confident
+"Honestly, i solved all the calculus homework problems easily.",Confident
+I feel like i solved all the calculus homework problems easily.,Confident
+I'm ready to ace this calculus test.,Confident
+i'm ready to ace this calculus test,Confident
+I'm ready to ace this calculus test.!,Confident
+"Honestly, i'm ready to ace this calculus test.",Confident
+I feel like i'm ready to ace this calculus test.,Confident
+Understanding calculus has been super smooth for me.,Confident
+understanding calculus has been super smooth for me,Confident
+Understanding calculus has been super smooth for me.!,Confident
+"Honestly, understanding calculus has been super smooth for me.",Confident
+I feel like understanding calculus has been super smooth for me.,Confident
+I can confidently implement the core concepts of calculus.,Confident
+i can confidently implement the core concepts of calculus,Confident
+I can confidently implement the core concepts of calculus.!,Confident
+"Honestly, i can confidently implement the core concepts of calculus.",Confident
+I feel like i can confidently implement the core concepts of calculus.,Confident
+I'm completely lost when it comes to calculus.,Confused
+i'm completely lost when it comes to calculus,Confused
+I'm completely lost when it comes to calculus.!,Confused
+"Honestly, i'm completely lost when it comes to calculus.",Confused
+I feel like i'm completely lost when it comes to calculus.,Confused
+Can someone help explain calculus? I don't understand it.,Confused
+can someone help explain calculus? i don't understand it,Confused
+Can someone help explain calculus? I don't understand it.!,Confused
+"Honestly, can someone help explain calculus? I don't understand it.",Confused
+I feel like can someone help explain calculus? I don't understand it.,Confused
+I don't know what is going on in calculus class.,Confused
+i don't know what is going on in calculus class,Confused
+I don't know what is going on in calculus class.!,Confused
+"Honestly, i don't know what is going on in calculus class.",Confused
+I feel like i don't know what is going on in calculus class.,Confused
+The concept of calculus is very confusing to me.,Confused
+the concept of calculus is very confusing to me,Confused
+The concept of calculus is very confusing to me.!,Confused
+"Honestly, the concept of calculus is very confusing to me.",Confused
+I feel like the concept of calculus is very confusing to me.,Confused
+"I'm stuck on calculus basics, I need a tutor.",Confused
+"i'm stuck on calculus basics, i need a tutor",Confused
+"I'm stuck on calculus basics, I need a tutor.!",Confused
+"Honestly, i'm stuck on calculus basics, I need a tutor.",Confused
+"I feel like i'm stuck on calculus basics, I need a tutor.",Confused
+I really want to dive deeper into calculus applications.,Curious
+i really want to dive deeper into calculus applications,Curious
+I really want to dive deeper into calculus applications.!,Curious
+"Honestly, i really want to dive deeper into calculus applications.",Curious
+I feel like i really want to dive deeper into calculus applications.,Curious
+I'm curious about how calculus works in the industry.,Curious
+i'm curious about how calculus works in the industry,Curious
+I'm curious about how calculus works in the industry.!,Curious
+"Honestly, i'm curious about how calculus works in the industry.",Curious
+I feel like i'm curious about how calculus works in the industry.,Curious
+How does calculus relate to real-world software systems?,Curious
+how does calculus relate to real-world software systems?,Curious
+How does calculus relate to real-world software systems?!,Curious
+"Honestly, how does calculus relate to real-world software systems?",Curious
+I feel like how does calculus relate to real-world software systems?,Curious
+I want to know more about the advanced topics in calculus.,Curious
+i want to know more about the advanced topics in calculus,Curious
+I want to know more about the advanced topics in calculus.!,Curious
+"Honestly, i want to know more about the advanced topics in calculus.",Curious
+I feel like i want to know more about the advanced topics in calculus.,Curious
+Are there any projects I can build to master calculus?,Curious
+are there any projects i can build to master calculus?,Curious
+Are there any projects I can build to master calculus?!,Curious
+"Honestly, are there any projects I can build to master calculus?",Curious
+I feel like are there any projects I can build to master calculus?,Curious
+I'm so frustrated with this calculus homework.,Frustrated
+i'm so frustrated with this calculus homework,Frustrated
+I'm so frustrated with this calculus homework.!,Frustrated
+"Honestly, i'm so frustrated with this calculus homework.",Frustrated
+I feel like i'm so frustrated with this calculus homework.,Frustrated
+I've been trying to solve this calculus issue for hours.,Frustrated
+i've been trying to solve this calculus issue for hours,Frustrated
+I've been trying to solve this calculus issue for hours.!,Frustrated
+"Honestly, i've been trying to solve this calculus issue for hours.",Frustrated
+I feel like i've been trying to solve this calculus issue for hours.,Frustrated
+This calculus lab is absolute torture.,Frustrated
+this calculus lab is absolute torture,Frustrated
+This calculus lab is absolute torture.!,Frustrated
+"Honestly, this calculus lab is absolute torture.",Frustrated
+I feel like this calculus lab is absolute torture.,Frustrated
+I keep failing the tests for calculus and I'm losing my mind.,Frustrated
+i keep failing the tests for calculus and i'm losing my mind,Frustrated
+I keep failing the tests for calculus and I'm losing my mind.!,Frustrated
+"Honestly, i keep failing the tests for calculus and I'm losing my mind.",Frustrated
+I feel like i keep failing the tests for calculus and I'm losing my mind.,Frustrated
+Nothing makes sense in calculus and it's extremely annoying.,Frustrated
+nothing makes sense in calculus and it's extremely annoying,Frustrated
+Nothing makes sense in calculus and it's extremely annoying.!,Frustrated
+"Honestly, nothing makes sense in calculus and it's extremely annoying.",Frustrated
+I feel like nothing makes sense in calculus and it's extremely annoying.,Frustrated
+"Honestly, machine learning is so boring.",Bored
+"honestly, machine learning is so boring",Bored
+"Honestly, machine learning is so boring.!",Bored
+"Honestly, honestly, machine learning is so boring.",Bored
+"I feel like honestly, machine learning is so boring.",Bored
+I can't pay attention to machine learning lectures at all.,Bored
+i can't pay attention to machine learning lectures at all,Bored
+I can't pay attention to machine learning lectures at all.!,Bored
+"Honestly, i can't pay attention to machine learning lectures at all.",Bored
+I feel like i can't pay attention to machine learning lectures at all.,Bored
+Why do we study machine learning? It's just pointless memorization.,Bored
+why do we study machine learning? it's just pointless memorization,Bored
+Why do we study machine learning? It's just pointless memorization.!,Bored
+"Honestly, why do we study machine learning? It's just pointless memorization.",Bored
+I feel like why do we study machine learning? It's just pointless memorization.,Bored
+Struggling to stay awake while studying machine learning.,Bored
+struggling to stay awake while studying machine learning,Bored
+Struggling to stay awake while studying machine learning.!,Bored
+"Honestly, struggling to stay awake while studying machine learning.",Bored
+I feel like struggling to stay awake while studying machine learning.,Bored
+This machine learning textbook is the most tedious thing I've ever read.,Bored
+this machine learning textbook is the most tedious thing i've ever read,Bored
+This machine learning textbook is the most tedious thing I've ever read.!,Bored
+"Honestly, this machine learning textbook is the most tedious thing I've ever read.",Bored
+I feel like this machine learning textbook is the most tedious thing I've ever read.,Bored
+I feel really good about my understanding of machine learning.,Confident
+i feel really good about my understanding of machine learning,Confident
+I feel really good about my understanding of machine learning.!,Confident
+"Honestly, i feel really good about my understanding of machine learning.",Confident
+I feel like i feel really good about my understanding of machine learning.,Confident
+I solved all the machine learning homework problems easily.,Confident
+i solved all the machine learning homework problems easily,Confident
+I solved all the machine learning homework problems easily.!,Confident
+"Honestly, i solved all the machine learning homework problems easily.",Confident
+I feel like i solved all the machine learning homework problems easily.,Confident
+I'm ready to ace this machine learning test.,Confident
+i'm ready to ace this machine learning test,Confident
+I'm ready to ace this machine learning test.!,Confident
+"Honestly, i'm ready to ace this machine learning test.",Confident
+I feel like i'm ready to ace this machine learning test.,Confident
+Understanding machine learning has been super smooth for me.,Confident
+understanding machine learning has been super smooth for me,Confident
+Understanding machine learning has been super smooth for me.!,Confident
+"Honestly, understanding machine learning has been super smooth for me.",Confident
+I feel like understanding machine learning has been super smooth for me.,Confident
+I can confidently implement the core concepts of machine learning.,Confident
+i can confidently implement the core concepts of machine learning,Confident
+I can confidently implement the core concepts of machine learning.!,Confident
+"Honestly, i can confidently implement the core concepts of machine learning.",Confident
+I feel like i can confidently implement the core concepts of machine learning.,Confident
+I'm completely lost when it comes to machine learning.,Confused
+i'm completely lost when it comes to machine learning,Confused
+I'm completely lost when it comes to machine learning.!,Confused
+"Honestly, i'm completely lost when it comes to machine learning.",Confused
+I feel like i'm completely lost when it comes to machine learning.,Confused
+Can someone help explain machine learning? I don't understand it.,Confused
+can someone help explain machine learning? i don't understand it,Confused
+Can someone help explain machine learning? I don't understand it.!,Confused
+"Honestly, can someone help explain machine learning? I don't understand it.",Confused
+I feel like can someone help explain machine learning? I don't understand it.,Confused
+I don't know what is going on in machine learning class.,Confused
+i don't know what is going on in machine learning class,Confused
+I don't know what is going on in machine learning class.!,Confused
+"Honestly, i don't know what is going on in machine learning class.",Confused
+I feel like i don't know what is going on in machine learning class.,Confused
+The concept of machine learning is very confusing to me.,Confused
+the concept of machine learning is very confusing to me,Confused
+The concept of machine learning is very confusing to me.!,Confused
+"Honestly, the concept of machine learning is very confusing to me.",Confused
+I feel like the concept of machine learning is very confusing to me.,Confused
+"I'm stuck on machine learning basics, I need a tutor.",Confused
+"i'm stuck on machine learning basics, i need a tutor",Confused
+"I'm stuck on machine learning basics, I need a tutor.!",Confused
+"Honestly, i'm stuck on machine learning basics, I need a tutor.",Confused
+"I feel like i'm stuck on machine learning basics, I need a tutor.",Confused
+I really want to dive deeper into machine learning applications.,Curious
+i really want to dive deeper into machine learning applications,Curious
+I really want to dive deeper into machine learning applications.!,Curious
+"Honestly, i really want to dive deeper into machine learning applications.",Curious
+I feel like i really want to dive deeper into machine learning applications.,Curious
+I'm curious about how machine learning works in the industry.,Curious
+i'm curious about how machine learning works in the industry,Curious
+I'm curious about how machine learning works in the industry.!,Curious
+"Honestly, i'm curious about how machine learning works in the industry.",Curious
+I feel like i'm curious about how machine learning works in the industry.,Curious
+How does machine learning relate to real-world software systems?,Curious
+how does machine learning relate to real-world software systems?,Curious
+How does machine learning relate to real-world software systems?!,Curious
+"Honestly, how does machine learning relate to real-world software systems?",Curious
+I feel like how does machine learning relate to real-world software systems?,Curious
+I want to know more about the advanced topics in machine learning.,Curious
+i want to know more about the advanced topics in machine learning,Curious
+I want to know more about the advanced topics in machine learning.!,Curious
+"Honestly, i want to know more about the advanced topics in machine learning.",Curious
+I feel like i want to know more about the advanced topics in machine learning.,Curious
+Are there any projects I can build to master machine learning?,Curious
+are there any projects i can build to master machine learning?,Curious
+Are there any projects I can build to master machine learning?!,Curious
+"Honestly, are there any projects I can build to master machine learning?",Curious
+I feel like are there any projects I can build to master machine learning?,Curious
+I'm so frustrated with this machine learning homework.,Frustrated
+i'm so frustrated with this machine learning homework,Frustrated
+I'm so frustrated with this machine learning homework.!,Frustrated
+"Honestly, i'm so frustrated with this machine learning homework.",Frustrated
+I feel like i'm so frustrated with this machine learning homework.,Frustrated
+I've been trying to solve this machine learning issue for hours.,Frustrated
+i've been trying to solve this machine learning issue for hours,Frustrated
+I've been trying to solve this machine learning issue for hours.!,Frustrated
+"Honestly, i've been trying to solve this machine learning issue for hours.",Frustrated
+I feel like i've been trying to solve this machine learning issue for hours.,Frustrated
+This machine learning lab is absolute torture.,Frustrated
+this machine learning lab is absolute torture,Frustrated
+This machine learning lab is absolute torture.!,Frustrated
+"Honestly, this machine learning lab is absolute torture.",Frustrated
+I feel like this machine learning lab is absolute torture.,Frustrated
+I keep failing the tests for machine learning and I'm losing my mind.,Frustrated
+i keep failing the tests for machine learning and i'm losing my mind,Frustrated
+I keep failing the tests for machine learning and I'm losing my mind.!,Frustrated
+"Honestly, i keep failing the tests for machine learning and I'm losing my mind.",Frustrated
+I feel like i keep failing the tests for machine learning and I'm losing my mind.,Frustrated
+Nothing makes sense in machine learning and it's extremely annoying.,Frustrated
+nothing makes sense in machine learning and it's extremely annoying,Frustrated
+Nothing makes sense in machine learning and it's extremely annoying.!,Frustrated
+"Honestly, nothing makes sense in machine learning and it's extremely annoying.",Frustrated
+I feel like nothing makes sense in machine learning and it's extremely annoying.,Frustrated
+"Honestly, data structures is so boring.",Bored
+"honestly, data structures is so boring",Bored
+"Honestly, data structures is so boring.!",Bored
+"Honestly, honestly, data structures is so boring.",Bored
+"I feel like honestly, data structures is so boring.",Bored
+I can't pay attention to data structures lectures at all.,Bored
+i can't pay attention to data structures lectures at all,Bored
+I can't pay attention to data structures lectures at all.!,Bored
+"Honestly, i can't pay attention to data structures lectures at all.",Bored
+I feel like i can't pay attention to data structures lectures at all.,Bored
+Why do we study data structures? It's just pointless memorization.,Bored
+why do we study data structures? it's just pointless memorization,Bored
+Why do we study data structures? It's just pointless memorization.!,Bored
+"Honestly, why do we study data structures? It's just pointless memorization.",Bored
+I feel like why do we study data structures? It's just pointless memorization.,Bored
+Struggling to stay awake while studying data structures.,Bored
+struggling to stay awake while studying data structures,Bored
+Struggling to stay awake while studying data structures.!,Bored
+"Honestly, struggling to stay awake while studying data structures.",Bored
+I feel like struggling to stay awake while studying data structures.,Bored
+This data structures textbook is the most tedious thing I've ever read.,Bored
+this data structures textbook is the most tedious thing i've ever read,Bored
+This data structures textbook is the most tedious thing I've ever read.!,Bored
+"Honestly, this data structures textbook is the most tedious thing I've ever read.",Bored
+I feel like this data structures textbook is the most tedious thing I've ever read.,Bored
+I feel really good about my understanding of data structures.,Confident
+i feel really good about my understanding of data structures,Confident
+I feel really good about my understanding of data structures.!,Confident
+"Honestly, i feel really good about my understanding of data structures.",Confident
+I feel like i feel really good about my understanding of data structures.,Confident
+I solved all the data structures homework problems easily.,Confident
+i solved all the data structures homework problems easily,Confident
+I solved all the data structures homework problems easily.!,Confident
+"Honestly, i solved all the data structures homework problems easily.",Confident
+I feel like i solved all the data structures homework problems easily.,Confident
+I'm ready to ace this data structures test.,Confident
+i'm ready to ace this data structures test,Confident
+I'm ready to ace this data structures test.!,Confident
+"Honestly, i'm ready to ace this data structures test.",Confident
+I feel like i'm ready to ace this data structures test.,Confident
+Understanding data structures has been super smooth for me.,Confident
+understanding data structures has been super smooth for me,Confident
+Understanding data structures has been super smooth for me.!,Confident
+"Honestly, understanding data structures has been super smooth for me.",Confident
+I feel like understanding data structures has been super smooth for me.,Confident
+I can confidently implement the core concepts of data structures.,Confident
+i can confidently implement the core concepts of data structures,Confident
+I can confidently implement the core concepts of data structures.!,Confident
+"Honestly, i can confidently implement the core concepts of data structures.",Confident
+I feel like i can confidently implement the core concepts of data structures.,Confident
+I'm completely lost when it comes to data structures.,Confused
+i'm completely lost when it comes to data structures,Confused
+I'm completely lost when it comes to data structures.!,Confused
+"Honestly, i'm completely lost when it comes to data structures.",Confused
+I feel like i'm completely lost when it comes to data structures.,Confused
+Can someone help explain data structures? I don't understand it.,Confused
+can someone help explain data structures? i don't understand it,Confused
+Can someone help explain data structures? I don't understand it.!,Confused
+"Honestly, can someone help explain data structures? I don't understand it.",Confused
+I feel like can someone help explain data structures? I don't understand it.,Confused
+I don't know what is going on in data structures class.,Confused
+i don't know what is going on in data structures class,Confused
+I don't know what is going on in data structures class.!,Confused
+"Honestly, i don't know what is going on in data structures class.",Confused
+I feel like i don't know what is going on in data structures class.,Confused
+The concept of data structures is very confusing to me.,Confused
+the concept of data structures is very confusing to me,Confused
+The concept of data structures is very confusing to me.!,Confused
+"Honestly, the concept of data structures is very confusing to me.",Confused
+I feel like the concept of data structures is very confusing to me.,Confused
+"I'm stuck on data structures basics, I need a tutor.",Confused
+"i'm stuck on data structures basics, i need a tutor",Confused
+"I'm stuck on data structures basics, I need a tutor.!",Confused
+"Honestly, i'm stuck on data structures basics, I need a tutor.",Confused
+"I feel like i'm stuck on data structures basics, I need a tutor.",Confused
+I really want to dive deeper into data structures applications.,Curious
+i really want to dive deeper into data structures applications,Curious
+I really want to dive deeper into data structures applications.!,Curious
+"Honestly, i really want to dive deeper into data structures applications.",Curious
+I feel like i really want to dive deeper into data structures applications.,Curious
+I'm curious about how data structures works in the industry.,Curious
+i'm curious about how data structures works in the industry,Curious
+I'm curious about how data structures works in the industry.!,Curious
+"Honestly, i'm curious about how data structures works in the industry.",Curious
+I feel like i'm curious about how data structures works in the industry.,Curious
+How does data structures relate to real-world software systems?,Curious
+how does data structures relate to real-world software systems?,Curious
+How does data structures relate to real-world software systems?!,Curious
+"Honestly, how does data structures relate to real-world software systems?",Curious
+I feel like how does data structures relate to real-world software systems?,Curious
+I want to know more about the advanced topics in data structures.,Curious
+i want to know more about the advanced topics in data structures,Curious
+I want to know more about the advanced topics in data structures.!,Curious
+"Honestly, i want to know more about the advanced topics in data structures.",Curious
+I feel like i want to know more about the advanced topics in data structures.,Curious
+Are there any projects I can build to master data structures?,Curious
+are there any projects i can build to master data structures?,Curious
+Are there any projects I can build to master data structures?!,Curious
+"Honestly, are there any projects I can build to master data structures?",Curious
+I feel like are there any projects I can build to master data structures?,Curious
+I'm so frustrated with this data structures homework.,Frustrated
+i'm so frustrated with this data structures homework,Frustrated
+I'm so frustrated with this data structures homework.!,Frustrated
+"Honestly, i'm so frustrated with this data structures homework.",Frustrated
+I feel like i'm so frustrated with this data structures homework.,Frustrated
+I've been trying to solve this data structures issue for hours.,Frustrated
+i've been trying to solve this data structures issue for hours,Frustrated
+I've been trying to solve this data structures issue for hours.!,Frustrated
+"Honestly, i've been trying to solve this data structures issue for hours.",Frustrated
+I feel like i've been trying to solve this data structures issue for hours.,Frustrated
+This data structures lab is absolute torture.,Frustrated
+this data structures lab is absolute torture,Frustrated
+This data structures lab is absolute torture.!,Frustrated
+"Honestly, this data structures lab is absolute torture.",Frustrated
+I feel like this data structures lab is absolute torture.,Frustrated
+I keep failing the tests for data structures and I'm losing my mind.,Frustrated
+i keep failing the tests for data structures and i'm losing my mind,Frustrated
+I keep failing the tests for data structures and I'm losing my mind.!,Frustrated
+"Honestly, i keep failing the tests for data structures and I'm losing my mind.",Frustrated
+I feel like i keep failing the tests for data structures and I'm losing my mind.,Frustrated
+Nothing makes sense in data structures and it's extremely annoying.,Frustrated
+nothing makes sense in data structures and it's extremely annoying,Frustrated
+Nothing makes sense in data structures and it's extremely annoying.!,Frustrated
+"Honestly, nothing makes sense in data structures and it's extremely annoying.",Frustrated
+I feel like nothing makes sense in data structures and it's extremely annoying.,Frustrated
+"Honestly, python is so boring.",Bored
+"honestly, python is so boring",Bored
+"Honestly, python is so boring.!",Bored
+"Honestly, honestly, python is so boring.",Bored
+"I feel like honestly, python is so boring.",Bored
+I can't pay attention to python lectures at all.,Bored
+i can't pay attention to python lectures at all,Bored
+I can't pay attention to python lectures at all.!,Bored
+"Honestly, i can't pay attention to python lectures at all.",Bored
+I feel like i can't pay attention to python lectures at all.,Bored
+Why do we study python? It's just pointless memorization.,Bored
+why do we study python? it's just pointless memorization,Bored
+Why do we study python? It's just pointless memorization.!,Bored
+"Honestly, why do we study python? It's just pointless memorization.",Bored
+I feel like why do we study python? It's just pointless memorization.,Bored
+Struggling to stay awake while studying python.,Bored
+struggling to stay awake while studying python,Bored
+Struggling to stay awake while studying python.!,Bored
+"Honestly, struggling to stay awake while studying python.",Bored
+I feel like struggling to stay awake while studying python.,Bored
+This python textbook is the most tedious thing I've ever read.,Bored
+this python textbook is the most tedious thing i've ever read,Bored
+This python textbook is the most tedious thing I've ever read.!,Bored
+"Honestly, this python textbook is the most tedious thing I've ever read.",Bored
+I feel like this python textbook is the most tedious thing I've ever read.,Bored
+I feel really good about my understanding of python.,Confident
+i feel really good about my understanding of python,Confident
+I feel really good about my understanding of python.!,Confident
+"Honestly, i feel really good about my understanding of python.",Confident
+I feel like i feel really good about my understanding of python.,Confident
+I solved all the python homework problems easily.,Confident
+i solved all the python homework problems easily,Confident
+I solved all the python homework problems easily.!,Confident
+"Honestly, i solved all the python homework problems easily.",Confident
+I feel like i solved all the python homework problems easily.,Confident
+I'm ready to ace this python test.,Confident
+i'm ready to ace this python test,Confident
+I'm ready to ace this python test.!,Confident
+"Honestly, i'm ready to ace this python test.",Confident
+I feel like i'm ready to ace this python test.,Confident
+Understanding python has been super smooth for me.,Confident
+understanding python has been super smooth for me,Confident
+Understanding python has been super smooth for me.!,Confident
+"Honestly, understanding python has been super smooth for me.",Confident
+I feel like understanding python has been super smooth for me.,Confident
+I can confidently implement the core concepts of python.,Confident
+i can confidently implement the core concepts of python,Confident
+I can confidently implement the core concepts of python.!,Confident
+"Honestly, i can confidently implement the core concepts of python.",Confident
+I feel like i can confidently implement the core concepts of python.,Confident
+I'm completely lost when it comes to python.,Confused
+i'm completely lost when it comes to python,Confused
+I'm completely lost when it comes to python.!,Confused
+"Honestly, i'm completely lost when it comes to python.",Confused
+I feel like i'm completely lost when it comes to python.,Confused
+Can someone help explain python? I don't understand it.,Confused
+can someone help explain python? i don't understand it,Confused
+Can someone help explain python? I don't understand it.!,Confused
+"Honestly, can someone help explain python? I don't understand it.",Confused
+I feel like can someone help explain python? I don't understand it.,Confused
+I don't know what is going on in python class.,Confused
+i don't know what is going on in python class,Confused
+I don't know what is going on in python class.!,Confused
+"Honestly, i don't know what is going on in python class.",Confused
+I feel like i don't know what is going on in python class.,Confused
+The concept of python is very confusing to me.,Confused
+the concept of python is very confusing to me,Confused
+The concept of python is very confusing to me.!,Confused
+"Honestly, the concept of python is very confusing to me.",Confused
+I feel like the concept of python is very confusing to me.,Confused
+"I'm stuck on python basics, I need a tutor.",Confused
+"i'm stuck on python basics, i need a tutor",Confused
+"I'm stuck on python basics, I need a tutor.!",Confused
+"Honestly, i'm stuck on python basics, I need a tutor.",Confused
+"I feel like i'm stuck on python basics, I need a tutor.",Confused
+I really want to dive deeper into python applications.,Curious
+i really want to dive deeper into python applications,Curious
+I really want to dive deeper into python applications.!,Curious
+"Honestly, i really want to dive deeper into python applications.",Curious
+I feel like i really want to dive deeper into python applications.,Curious
+I'm curious about how python works in the industry.,Curious
+i'm curious about how python works in the industry,Curious
+I'm curious about how python works in the industry.!,Curious
+"Honestly, i'm curious about how python works in the industry.",Curious
+I feel like i'm curious about how python works in the industry.,Curious
+How does python relate to real-world software systems?,Curious
+how does python relate to real-world software systems?,Curious
+How does python relate to real-world software systems?!,Curious
+"Honestly, how does python relate to real-world software systems?",Curious
+I feel like how does python relate to real-world software systems?,Curious
+I want to know more about the advanced topics in python.,Curious
+i want to know more about the advanced topics in python,Curious
+I want to know more about the advanced topics in python.!,Curious
+"Honestly, i want to know more about the advanced topics in python.",Curious
+I feel like i want to know more about the advanced topics in python.,Curious
+Are there any projects I can build to master python?,Curious
+are there any projects i can build to master python?,Curious
+Are there any projects I can build to master python?!,Curious
+"Honestly, are there any projects I can build to master python?",Curious
+I feel like are there any projects I can build to master python?,Curious
+I'm so frustrated with this python homework.,Frustrated
+i'm so frustrated with this python homework,Frustrated
+I'm so frustrated with this python homework.!,Frustrated
+"Honestly, i'm so frustrated with this python homework.",Frustrated
+I feel like i'm so frustrated with this python homework.,Frustrated
+I've been trying to solve this python issue for hours.,Frustrated
+i've been trying to solve this python issue for hours,Frustrated
+I've been trying to solve this python issue for hours.!,Frustrated
+"Honestly, i've been trying to solve this python issue for hours.",Frustrated
+I feel like i've been trying to solve this python issue for hours.,Frustrated
+This python lab is absolute torture.,Frustrated
+this python lab is absolute torture,Frustrated
+This python lab is absolute torture.!,Frustrated
+"Honestly, this python lab is absolute torture.",Frustrated
+I feel like this python lab is absolute torture.,Frustrated
+I keep failing the tests for python and I'm losing my mind.,Frustrated
+i keep failing the tests for python and i'm losing my mind,Frustrated
+I keep failing the tests for python and I'm losing my mind.!,Frustrated
+"Honestly, i keep failing the tests for python and I'm losing my mind.",Frustrated
+I feel like i keep failing the tests for python and I'm losing my mind.,Frustrated
+Nothing makes sense in python and it's extremely annoying.,Frustrated
+nothing makes sense in python and it's extremely annoying,Frustrated
+Nothing makes sense in python and it's extremely annoying.!,Frustrated
+"Honestly, nothing makes sense in python and it's extremely annoying.",Frustrated
+I feel like nothing makes sense in python and it's extremely annoying.,Frustrated
+"Honestly, physics is so boring.",Bored
+"honestly, physics is so boring",Bored
+"Honestly, physics is so boring.!",Bored
+"Honestly, honestly, physics is so boring.",Bored
+"I feel like honestly, physics is so boring.",Bored
+I can't pay attention to physics lectures at all.,Bored
+i can't pay attention to physics lectures at all,Bored
+I can't pay attention to physics lectures at all.!,Bored
+"Honestly, i can't pay attention to physics lectures at all.",Bored
+I feel like i can't pay attention to physics lectures at all.,Bored
+Why do we study physics? It's just pointless memorization.,Bored
+why do we study physics? it's just pointless memorization,Bored
+Why do we study physics? It's just pointless memorization.!,Bored
+"Honestly, why do we study physics? It's just pointless memorization.",Bored
+I feel like why do we study physics? It's just pointless memorization.,Bored
+Struggling to stay awake while studying physics.,Bored
+struggling to stay awake while studying physics,Bored
+Struggling to stay awake while studying physics.!,Bored
+"Honestly, struggling to stay awake while studying physics.",Bored
+I feel like struggling to stay awake while studying physics.,Bored
+This physics textbook is the most tedious thing I've ever read.,Bored
+this physics textbook is the most tedious thing i've ever read,Bored
+This physics textbook is the most tedious thing I've ever read.!,Bored
+"Honestly, this physics textbook is the most tedious thing I've ever read.",Bored
+I feel like this physics textbook is the most tedious thing I've ever read.,Bored
+I feel really good about my understanding of physics.,Confident
+i feel really good about my understanding of physics,Confident
+I feel really good about my understanding of physics.!,Confident
+"Honestly, i feel really good about my understanding of physics.",Confident
+I feel like i feel really good about my understanding of physics.,Confident
+I solved all the physics homework problems easily.,Confident
+i solved all the physics homework problems easily,Confident
+I solved all the physics homework problems easily.!,Confident
+"Honestly, i solved all the physics homework problems easily.",Confident
+I feel like i solved all the physics homework problems easily.,Confident
+I'm ready to ace this physics test.,Confident
+i'm ready to ace this physics test,Confident
+I'm ready to ace this physics test.!,Confident
+"Honestly, i'm ready to ace this physics test.",Confident
+I feel like i'm ready to ace this physics test.,Confident
+Understanding physics has been super smooth for me.,Confident
+understanding physics has been super smooth for me,Confident
+Understanding physics has been super smooth for me.!,Confident
+"Honestly, understanding physics has been super smooth for me.",Confident
+I feel like understanding physics has been super smooth for me.,Confident
+I can confidently implement the core concepts of physics.,Confident
+i can confidently implement the core concepts of physics,Confident
+I can confidently implement the core concepts of physics.!,Confident
+"Honestly, i can confidently implement the core concepts of physics.",Confident
+I feel like i can confidently implement the core concepts of physics.,Confident
+I'm completely lost when it comes to physics.,Confused
+i'm completely lost when it comes to physics,Confused
+I'm completely lost when it comes to physics.!,Confused
+"Honestly, i'm completely lost when it comes to physics.",Confused
+I feel like i'm completely lost when it comes to physics.,Confused
+Can someone help explain physics? I don't understand it.,Confused
+can someone help explain physics? i don't understand it,Confused
+Can someone help explain physics? I don't understand it.!,Confused
+"Honestly, can someone help explain physics? I don't understand it.",Confused
+I feel like can someone help explain physics? I don't understand it.,Confused
+I don't know what is going on in physics class.,Confused
+i don't know what is going on in physics class,Confused
+I don't know what is going on in physics class.!,Confused
+"Honestly, i don't know what is going on in physics class.",Confused
+I feel like i don't know what is going on in physics class.,Confused
+The concept of physics is very confusing to me.,Confused
+the concept of physics is very confusing to me,Confused
+The concept of physics is very confusing to me.!,Confused
+"Honestly, the concept of physics is very confusing to me.",Confused
+I feel like the concept of physics is very confusing to me.,Confused
+"I'm stuck on physics basics, I need a tutor.",Confused
+"i'm stuck on physics basics, i need a tutor",Confused
+"I'm stuck on physics basics, I need a tutor.!",Confused
+"Honestly, i'm stuck on physics basics, I need a tutor.",Confused
+"I feel like i'm stuck on physics basics, I need a tutor.",Confused
+I really want to dive deeper into physics applications.,Curious
+i really want to dive deeper into physics applications,Curious
+I really want to dive deeper into physics applications.!,Curious
+"Honestly, i really want to dive deeper into physics applications.",Curious
+I feel like i really want to dive deeper into physics applications.,Curious
+I'm curious about how physics works in the industry.,Curious
+i'm curious about how physics works in the industry,Curious
+I'm curious about how physics works in the industry.!,Curious
+"Honestly, i'm curious about how physics works in the industry.",Curious
+I feel like i'm curious about how physics works in the industry.,Curious
+How does physics relate to real-world software systems?,Curious
+how does physics relate to real-world software systems?,Curious
+How does physics relate to real-world software systems?!,Curious
+"Honestly, how does physics relate to real-world software systems?",Curious
+I feel like how does physics relate to real-world software systems?,Curious
+I want to know more about the advanced topics in physics.,Curious
+i want to know more about the advanced topics in physics,Curious
+I want to know more about the advanced topics in physics.!,Curious
+"Honestly, i want to know more about the advanced topics in physics.",Curious
+I feel like i want to know more about the advanced topics in physics.,Curious
+Are there any projects I can build to master physics?,Curious
+are there any projects i can build to master physics?,Curious
+Are there any projects I can build to master physics?!,Curious
+"Honestly, are there any projects I can build to master physics?",Curious
+I feel like are there any projects I can build to master physics?,Curious
+I'm so frustrated with this physics homework.,Frustrated
+i'm so frustrated with this physics homework,Frustrated
+I'm so frustrated with this physics homework.!,Frustrated
+"Honestly, i'm so frustrated with this physics homework.",Frustrated
+I feel like i'm so frustrated with this physics homework.,Frustrated
+I've been trying to solve this physics issue for hours.,Frustrated
+i've been trying to solve this physics issue for hours,Frustrated
+I've been trying to solve this physics issue for hours.!,Frustrated
+"Honestly, i've been trying to solve this physics issue for hours.",Frustrated
+I feel like i've been trying to solve this physics issue for hours.,Frustrated
+This physics lab is absolute torture.,Frustrated
+this physics lab is absolute torture,Frustrated
+This physics lab is absolute torture.!,Frustrated
+"Honestly, this physics lab is absolute torture.",Frustrated
+I feel like this physics lab is absolute torture.,Frustrated
+I keep failing the tests for physics and I'm losing my mind.,Frustrated
+i keep failing the tests for physics and i'm losing my mind,Frustrated
+I keep failing the tests for physics and I'm losing my mind.!,Frustrated
+"Honestly, i keep failing the tests for physics and I'm losing my mind.",Frustrated
+I feel like i keep failing the tests for physics and I'm losing my mind.,Frustrated
+Nothing makes sense in physics and it's extremely annoying.,Frustrated
+nothing makes sense in physics and it's extremely annoying,Frustrated
+Nothing makes sense in physics and it's extremely annoying.!,Frustrated
+"Honestly, nothing makes sense in physics and it's extremely annoying.",Frustrated
+I feel like nothing makes sense in physics and it's extremely annoying.,Frustrated
+"Honestly, web development is so boring.",Bored
+"honestly, web development is so boring",Bored
+"Honestly, web development is so boring.!",Bored
+"Honestly, honestly, web development is so boring.",Bored
+"I feel like honestly, web development is so boring.",Bored
+I can't pay attention to web development lectures at all.,Bored
+i can't pay attention to web development lectures at all,Bored
+I can't pay attention to web development lectures at all.!,Bored
+"Honestly, i can't pay attention to web development lectures at all.",Bored
+I feel like i can't pay attention to web development lectures at all.,Bored
+Why do we study web development? It's just pointless memorization.,Bored
+why do we study web development? it's just pointless memorization,Bored
+Why do we study web development? It's just pointless memorization.!,Bored
+"Honestly, why do we study web development? It's just pointless memorization.",Bored
+I feel like why do we study web development? It's just pointless memorization.,Bored
+Struggling to stay awake while studying web development.,Bored
+struggling to stay awake while studying web development,Bored
+Struggling to stay awake while studying web development.!,Bored
+"Honestly, struggling to stay awake while studying web development.",Bored
+I feel like struggling to stay awake while studying web development.,Bored
+This web development textbook is the most tedious thing I've ever read.,Bored
+this web development textbook is the most tedious thing i've ever read,Bored
+This web development textbook is the most tedious thing I've ever read.!,Bored
+"Honestly, this web development textbook is the most tedious thing I've ever read.",Bored
+I feel like this web development textbook is the most tedious thing I've ever read.,Bored
+I feel really good about my understanding of web development.,Confident
+i feel really good about my understanding of web development,Confident
+I feel really good about my understanding of web development.!,Confident
+"Honestly, i feel really good about my understanding of web development.",Confident
+I feel like i feel really good about my understanding of web development.,Confident
+I solved all the web development homework problems easily.,Confident
+i solved all the web development homework problems easily,Confident
+I solved all the web development homework problems easily.!,Confident
+"Honestly, i solved all the web development homework problems easily.",Confident
+I feel like i solved all the web development homework problems easily.,Confident
+I'm ready to ace this web development test.,Confident
+i'm ready to ace this web development test,Confident
+I'm ready to ace this web development test.!,Confident
+"Honestly, i'm ready to ace this web development test.",Confident
+I feel like i'm ready to ace this web development test.,Confident
+Understanding web development has been super smooth for me.,Confident
+understanding web development has been super smooth for me,Confident
+Understanding web development has been super smooth for me.!,Confident
+"Honestly, understanding web development has been super smooth for me.",Confident
+I feel like understanding web development has been super smooth for me.,Confident
+I can confidently implement the core concepts of web development.,Confident
+i can confidently implement the core concepts of web development,Confident
+I can confidently implement the core concepts of web development.!,Confident
+"Honestly, i can confidently implement the core concepts of web development.",Confident
+I feel like i can confidently implement the core concepts of web development.,Confident
+I'm completely lost when it comes to web development.,Confused
+i'm completely lost when it comes to web development,Confused
+I'm completely lost when it comes to web development.!,Confused
+"Honestly, i'm completely lost when it comes to web development.",Confused
+I feel like i'm completely lost when it comes to web development.,Confused
+Can someone help explain web development? I don't understand it.,Confused
+can someone help explain web development? i don't understand it,Confused
+Can someone help explain web development? I don't understand it.!,Confused
+"Honestly, can someone help explain web development? I don't understand it.",Confused
+I feel like can someone help explain web development? I don't understand it.,Confused
+I don't know what is going on in web development class.,Confused
+i don't know what is going on in web development class,Confused
+I don't know what is going on in web development class.!,Confused
+"Honestly, i don't know what is going on in web development class.",Confused
+I feel like i don't know what is going on in web development class.,Confused
+The concept of web development is very confusing to me.,Confused
+the concept of web development is very confusing to me,Confused
+The concept of web development is very confusing to me.!,Confused
+"Honestly, the concept of web development is very confusing to me.",Confused
+I feel like the concept of web development is very confusing to me.,Confused
+"I'm stuck on web development basics, I need a tutor.",Confused
+"i'm stuck on web development basics, i need a tutor",Confused
+"I'm stuck on web development basics, I need a tutor.!",Confused
+"Honestly, i'm stuck on web development basics, I need a tutor.",Confused
+"I feel like i'm stuck on web development basics, I need a tutor.",Confused
+I really want to dive deeper into web development applications.,Curious
+i really want to dive deeper into web development applications,Curious
+I really want to dive deeper into web development applications.!,Curious
+"Honestly, i really want to dive deeper into web development applications.",Curious
+I feel like i really want to dive deeper into web development applications.,Curious
+I'm curious about how web development works in the industry.,Curious
+i'm curious about how web development works in the industry,Curious
+I'm curious about how web development works in the industry.!,Curious
+"Honestly, i'm curious about how web development works in the industry.",Curious
+I feel like i'm curious about how web development works in the industry.,Curious
+How does web development relate to real-world software systems?,Curious
+how does web development relate to real-world software systems?,Curious
+How does web development relate to real-world software systems?!,Curious
+"Honestly, how does web development relate to real-world software systems?",Curious
+I feel like how does web development relate to real-world software systems?,Curious
+I want to know more about the advanced topics in web development.,Curious
+i want to know more about the advanced topics in web development,Curious
+I want to know more about the advanced topics in web development.!,Curious
+"Honestly, i want to know more about the advanced topics in web development.",Curious
+I feel like i want to know more about the advanced topics in web development.,Curious
+Are there any projects I can build to master web development?,Curious
+are there any projects i can build to master web development?,Curious
+Are there any projects I can build to master web development?!,Curious
+"Honestly, are there any projects I can build to master web development?",Curious
+I feel like are there any projects I can build to master web development?,Curious
+I'm so frustrated with this web development homework.,Frustrated
+i'm so frustrated with this web development homework,Frustrated
+I'm so frustrated with this web development homework.!,Frustrated
+"Honestly, i'm so frustrated with this web development homework.",Frustrated
+I feel like i'm so frustrated with this web development homework.,Frustrated
+I've been trying to solve this web development issue for hours.,Frustrated
+i've been trying to solve this web development issue for hours,Frustrated
+I've been trying to solve this web development issue for hours.!,Frustrated
+"Honestly, i've been trying to solve this web development issue for hours.",Frustrated
+I feel like i've been trying to solve this web development issue for hours.,Frustrated
+This web development lab is absolute torture.,Frustrated
+this web development lab is absolute torture,Frustrated
+This web development lab is absolute torture.!,Frustrated
+"Honestly, this web development lab is absolute torture.",Frustrated
+I feel like this web development lab is absolute torture.,Frustrated
+I keep failing the tests for web development and I'm losing my mind.,Frustrated
+i keep failing the tests for web development and i'm losing my mind,Frustrated
+I keep failing the tests for web development and I'm losing my mind.!,Frustrated
+"Honestly, i keep failing the tests for web development and I'm losing my mind.",Frustrated
+I feel like i keep failing the tests for web development and I'm losing my mind.,Frustrated
+Nothing makes sense in web development and it's extremely annoying.,Frustrated
+nothing makes sense in web development and it's extremely annoying,Frustrated
+Nothing makes sense in web development and it's extremely annoying.!,Frustrated
+"Honestly, nothing makes sense in web development and it's extremely annoying.",Frustrated
+I feel like nothing makes sense in web development and it's extremely annoying.,Frustrated
+"Honestly, databases is so boring.",Bored
+"honestly, databases is so boring",Bored
+"Honestly, databases is so boring.!",Bored
+"Honestly, honestly, databases is so boring.",Bored
+"I feel like honestly, databases is so boring.",Bored
+I can't pay attention to databases lectures at all.,Bored
+i can't pay attention to databases lectures at all,Bored
+I can't pay attention to databases lectures at all.!,Bored
+"Honestly, i can't pay attention to databases lectures at all.",Bored
+I feel like i can't pay attention to databases lectures at all.,Bored
+Why do we study databases? It's just pointless memorization.,Bored
+why do we study databases? it's just pointless memorization,Bored
+Why do we study databases? It's just pointless memorization.!,Bored
+"Honestly, why do we study databases? It's just pointless memorization.",Bored
+I feel like why do we study databases? It's just pointless memorization.,Bored
+Struggling to stay awake while studying databases.,Bored
+struggling to stay awake while studying databases,Bored
+Struggling to stay awake while studying databases.!,Bored
+"Honestly, struggling to stay awake while studying databases.",Bored
+I feel like struggling to stay awake while studying databases.,Bored
+This databases textbook is the most tedious thing I've ever read.,Bored
+this databases textbook is the most tedious thing i've ever read,Bored
+This databases textbook is the most tedious thing I've ever read.!,Bored
+"Honestly, this databases textbook is the most tedious thing I've ever read.",Bored
+I feel like this databases textbook is the most tedious thing I've ever read.,Bored
+I feel really good about my understanding of databases.,Confident
+i feel really good about my understanding of databases,Confident
+I feel really good about my understanding of databases.!,Confident
+"Honestly, i feel really good about my understanding of databases.",Confident
+I feel like i feel really good about my understanding of databases.,Confident
+I solved all the databases homework problems easily.,Confident
+i solved all the databases homework problems easily,Confident
+I solved all the databases homework problems easily.!,Confident
+"Honestly, i solved all the databases homework problems easily.",Confident
+I feel like i solved all the databases homework problems easily.,Confident
+I'm ready to ace this databases test.,Confident
+i'm ready to ace this databases test,Confident
+I'm ready to ace this databases test.!,Confident
+"Honestly, i'm ready to ace this databases test.",Confident
+I feel like i'm ready to ace this databases test.,Confident
+Understanding databases has been super smooth for me.,Confident
+understanding databases has been super smooth for me,Confident
+Understanding databases has been super smooth for me.!,Confident
+"Honestly, understanding databases has been super smooth for me.",Confident
+I feel like understanding databases has been super smooth for me.,Confident
+I can confidently implement the core concepts of databases.,Confident
+i can confidently implement the core concepts of databases,Confident
+I can confidently implement the core concepts of databases.!,Confident
+"Honestly, i can confidently implement the core concepts of databases.",Confident
+I feel like i can confidently implement the core concepts of databases.,Confident
+I'm completely lost when it comes to databases.,Confused
+i'm completely lost when it comes to databases,Confused
+I'm completely lost when it comes to databases.!,Confused
+"Honestly, i'm completely lost when it comes to databases.",Confused
+I feel like i'm completely lost when it comes to databases.,Confused
+Can someone help explain databases? I don't understand it.,Confused
+can someone help explain databases? i don't understand it,Confused
+Can someone help explain databases? I don't understand it.!,Confused
+"Honestly, can someone help explain databases? I don't understand it.",Confused
+I feel like can someone help explain databases? I don't understand it.,Confused
+I don't know what is going on in databases class.,Confused
+i don't know what is going on in databases class,Confused
+I don't know what is going on in databases class.!,Confused
+"Honestly, i don't know what is going on in databases class.",Confused
+I feel like i don't know what is going on in databases class.,Confused
+The concept of databases is very confusing to me.,Confused
+the concept of databases is very confusing to me,Confused
+The concept of databases is very confusing to me.!,Confused
+"Honestly, the concept of databases is very confusing to me.",Confused
+I feel like the concept of databases is very confusing to me.,Confused
+"I'm stuck on databases basics, I need a tutor.",Confused
+"i'm stuck on databases basics, i need a tutor",Confused
+"I'm stuck on databases basics, I need a tutor.!",Confused
+"Honestly, i'm stuck on databases basics, I need a tutor.",Confused
+"I feel like i'm stuck on databases basics, I need a tutor.",Confused
+I really want to dive deeper into databases applications.,Curious
+i really want to dive deeper into databases applications,Curious
+I really want to dive deeper into databases applications.!,Curious
+"Honestly, i really want to dive deeper into databases applications.",Curious
+I feel like i really want to dive deeper into databases applications.,Curious
+I'm curious about how databases works in the industry.,Curious
+i'm curious about how databases works in the industry,Curious
+I'm curious about how databases works in the industry.!,Curious
+"Honestly, i'm curious about how databases works in the industry.",Curious
+I feel like i'm curious about how databases works in the industry.,Curious
+How does databases relate to real-world software systems?,Curious
+how does databases relate to real-world software systems?,Curious
+How does databases relate to real-world software systems?!,Curious
+"Honestly, how does databases relate to real-world software systems?",Curious
+I feel like how does databases relate to real-world software systems?,Curious
+I want to know more about the advanced topics in databases.,Curious
+i want to know more about the advanced topics in databases,Curious
+I want to know more about the advanced topics in databases.!,Curious
+"Honestly, i want to know more about the advanced topics in databases.",Curious
+I feel like i want to know more about the advanced topics in databases.,Curious
+Are there any projects I can build to master databases?,Curious
+are there any projects i can build to master databases?,Curious
+Are there any projects I can build to master databases?!,Curious
+"Honestly, are there any projects I can build to master databases?",Curious
+I feel like are there any projects I can build to master databases?,Curious
+I'm so frustrated with this databases homework.,Frustrated
+i'm so frustrated with this databases homework,Frustrated
+I'm so frustrated with this databases homework.!,Frustrated
+"Honestly, i'm so frustrated with this databases homework.",Frustrated
+I feel like i'm so frustrated with this databases homework.,Frustrated
+I've been trying to solve this databases issue for hours.,Frustrated
+i've been trying to solve this databases issue for hours,Frustrated
+I've been trying to solve this databases issue for hours.!,Frustrated
+"Honestly, i've been trying to solve this databases issue for hours.",Frustrated
+I feel like i've been trying to solve this databases issue for hours.,Frustrated
+This databases lab is absolute torture.,Frustrated
+this databases lab is absolute torture,Frustrated
+This databases lab is absolute torture.!,Frustrated
+"Honestly, this databases lab is absolute torture.",Frustrated
+I feel like this databases lab is absolute torture.,Frustrated
+I keep failing the tests for databases and I'm losing my mind.,Frustrated
+i keep failing the tests for databases and i'm losing my mind,Frustrated
+I keep failing the tests for databases and I'm losing my mind.!,Frustrated
+"Honestly, i keep failing the tests for databases and I'm losing my mind.",Frustrated
+I feel like i keep failing the tests for databases and I'm losing my mind.,Frustrated
+Nothing makes sense in databases and it's extremely annoying.,Frustrated
+nothing makes sense in databases and it's extremely annoying,Frustrated
+Nothing makes sense in databases and it's extremely annoying.!,Frustrated
+"Honestly, nothing makes sense in databases and it's extremely annoying.",Frustrated
+I feel like nothing makes sense in databases and it's extremely annoying.,Frustrated
+"Honestly, algorithms is so boring.",Bored
+"honestly, algorithms is so boring",Bored
+"Honestly, algorithms is so boring.!",Bored
+"Honestly, honestly, algorithms is so boring.",Bored
+"I feel like honestly, algorithms is so boring.",Bored
+I can't pay attention to algorithms lectures at all.,Bored
+i can't pay attention to algorithms lectures at all,Bored
+I can't pay attention to algorithms lectures at all.!,Bored
+"Honestly, i can't pay attention to algorithms lectures at all.",Bored
+I feel like i can't pay attention to algorithms lectures at all.,Bored
+Why do we study algorithms? It's just pointless memorization.,Bored
+why do we study algorithms? it's just pointless memorization,Bored
+Why do we study algorithms? It's just pointless memorization.!,Bored
+"Honestly, why do we study algorithms? It's just pointless memorization.",Bored
+I feel like why do we study algorithms? It's just pointless memorization.,Bored
+Struggling to stay awake while studying algorithms.,Bored
+struggling to stay awake while studying algorithms,Bored
+Struggling to stay awake while studying algorithms.!,Bored
+"Honestly, struggling to stay awake while studying algorithms.",Bored
+I feel like struggling to stay awake while studying algorithms.,Bored
+This algorithms textbook is the most tedious thing I've ever read.,Bored
+this algorithms textbook is the most tedious thing i've ever read,Bored
+This algorithms textbook is the most tedious thing I've ever read.!,Bored
+"Honestly, this algorithms textbook is the most tedious thing I've ever read.",Bored
+I feel like this algorithms textbook is the most tedious thing I've ever read.,Bored
+I feel really good about my understanding of algorithms.,Confident
+i feel really good about my understanding of algorithms,Confident
+I feel really good about my understanding of algorithms.!,Confident
+"Honestly, i feel really good about my understanding of algorithms.",Confident
+I feel like i feel really good about my understanding of algorithms.,Confident
+I solved all the algorithms homework problems easily.,Confident
+i solved all the algorithms homework problems easily,Confident
+I solved all the algorithms homework problems easily.!,Confident
+"Honestly, i solved all the algorithms homework problems easily.",Confident
+I feel like i solved all the algorithms homework problems easily.,Confident
+I'm ready to ace this algorithms test.,Confident
+i'm ready to ace this algorithms test,Confident
+I'm ready to ace this algorithms test.!,Confident
+"Honestly, i'm ready to ace this algorithms test.",Confident
+I feel like i'm ready to ace this algorithms test.,Confident
+Understanding algorithms has been super smooth for me.,Confident
+understanding algorithms has been super smooth for me,Confident
+Understanding algorithms has been super smooth for me.!,Confident
+"Honestly, understanding algorithms has been super smooth for me.",Confident
+I feel like understanding algorithms has been super smooth for me.,Confident
+I can confidently implement the core concepts of algorithms.,Confident
+i can confidently implement the core concepts of algorithms,Confident
+I can confidently implement the core concepts of algorithms.!,Confident
+"Honestly, i can confidently implement the core concepts of algorithms.",Confident
+I feel like i can confidently implement the core concepts of algorithms.,Confident
+I'm completely lost when it comes to algorithms.,Confused
+i'm completely lost when it comes to algorithms,Confused
+I'm completely lost when it comes to algorithms.!,Confused
+"Honestly, i'm completely lost when it comes to algorithms.",Confused
+I feel like i'm completely lost when it comes to algorithms.,Confused
+Can someone help explain algorithms? I don't understand it.,Confused
+can someone help explain algorithms? i don't understand it,Confused
+Can someone help explain algorithms? I don't understand it.!,Confused
+"Honestly, can someone help explain algorithms? I don't understand it.",Confused
+I feel like can someone help explain algorithms? I don't understand it.,Confused
+I don't know what is going on in algorithms class.,Confused
+i don't know what is going on in algorithms class,Confused
+I don't know what is going on in algorithms class.!,Confused
+"Honestly, i don't know what is going on in algorithms class.",Confused
+I feel like i don't know what is going on in algorithms class.,Confused
+The concept of algorithms is very confusing to me.,Confused
+the concept of algorithms is very confusing to me,Confused
+The concept of algorithms is very confusing to me.!,Confused
+"Honestly, the concept of algorithms is very confusing to me.",Confused
+I feel like the concept of algorithms is very confusing to me.,Confused
+"I'm stuck on algorithms basics, I need a tutor.",Confused
+"i'm stuck on algorithms basics, i need a tutor",Confused
+"I'm stuck on algorithms basics, I need a tutor.!",Confused
+"Honestly, i'm stuck on algorithms basics, I need a tutor.",Confused
+"I feel like i'm stuck on algorithms basics, I need a tutor.",Confused
+I really want to dive deeper into algorithms applications.,Curious
+i really want to dive deeper into algorithms applications,Curious
+I really want to dive deeper into algorithms applications.!,Curious
+"Honestly, i really want to dive deeper into algorithms applications.",Curious
+I feel like i really want to dive deeper into algorithms applications.,Curious
+I'm curious about how algorithms works in the industry.,Curious
+i'm curious about how algorithms works in the industry,Curious
+I'm curious about how algorithms works in the industry.!,Curious
+"Honestly, i'm curious about how algorithms works in the industry.",Curious
+I feel like i'm curious about how algorithms works in the industry.,Curious
+How does algorithms relate to real-world software systems?,Curious
+how does algorithms relate to real-world software systems?,Curious
+How does algorithms relate to real-world software systems?!,Curious
+"Honestly, how does algorithms relate to real-world software systems?",Curious
+I feel like how does algorithms relate to real-world software systems?,Curious
+I want to know more about the advanced topics in algorithms.,Curious
+i want to know more about the advanced topics in algorithms,Curious
+I want to know more about the advanced topics in algorithms.!,Curious
+"Honestly, i want to know more about the advanced topics in algorithms.",Curious
+I feel like i want to know more about the advanced topics in algorithms.,Curious
+Are there any projects I can build to master algorithms?,Curious
+are there any projects i can build to master algorithms?,Curious
+Are there any projects I can build to master algorithms?!,Curious
+"Honestly, are there any projects I can build to master algorithms?",Curious
+I feel like are there any projects I can build to master algorithms?,Curious
+I'm so frustrated with this algorithms homework.,Frustrated
+i'm so frustrated with this algorithms homework,Frustrated
+I'm so frustrated with this algorithms homework.!,Frustrated
+"Honestly, i'm so frustrated with this algorithms homework.",Frustrated
+I feel like i'm so frustrated with this algorithms homework.,Frustrated
+I've been trying to solve this algorithms issue for hours.,Frustrated
+i've been trying to solve this algorithms issue for hours,Frustrated
+I've been trying to solve this algorithms issue for hours.!,Frustrated
+"Honestly, i've been trying to solve this algorithms issue for hours.",Frustrated
+I feel like i've been trying to solve this algorithms issue for hours.,Frustrated
+This algorithms lab is absolute torture.,Frustrated
+this algorithms lab is absolute torture,Frustrated
+This algorithms lab is absolute torture.!,Frustrated
+"Honestly, this algorithms lab is absolute torture.",Frustrated
+I feel like this algorithms lab is absolute torture.,Frustrated
+I keep failing the tests for algorithms and I'm losing my mind.,Frustrated
+i keep failing the tests for algorithms and i'm losing my mind,Frustrated
+I keep failing the tests for algorithms and I'm losing my mind.!,Frustrated
+"Honestly, i keep failing the tests for algorithms and I'm losing my mind.",Frustrated
+I feel like i keep failing the tests for algorithms and I'm losing my mind.,Frustrated
+Nothing makes sense in algorithms and it's extremely annoying.,Frustrated
+nothing makes sense in algorithms and it's extremely annoying,Frustrated
+Nothing makes sense in algorithms and it's extremely annoying.!,Frustrated
+"Honestly, nothing makes sense in algorithms and it's extremely annoying.",Frustrated
+I feel like nothing makes sense in algorithms and it's extremely annoying.,Frustrated
+"Honestly, statistics is so boring.",Bored
+"honestly, statistics is so boring",Bored
+"Honestly, statistics is so boring.!",Bored
+"Honestly, honestly, statistics is so boring.",Bored
+"I feel like honestly, statistics is so boring.",Bored
+I can't pay attention to statistics lectures at all.,Bored
+i can't pay attention to statistics lectures at all,Bored
+I can't pay attention to statistics lectures at all.!,Bored
+"Honestly, i can't pay attention to statistics lectures at all.",Bored
+I feel like i can't pay attention to statistics lectures at all.,Bored
+Why do we study statistics? It's just pointless memorization.,Bored
+why do we study statistics? it's just pointless memorization,Bored
+Why do we study statistics? It's just pointless memorization.!,Bored
+"Honestly, why do we study statistics? It's just pointless memorization.",Bored
+I feel like why do we study statistics? It's just pointless memorization.,Bored
+Struggling to stay awake while studying statistics.,Bored
+struggling to stay awake while studying statistics,Bored
+Struggling to stay awake while studying statistics.!,Bored
+"Honestly, struggling to stay awake while studying statistics.",Bored
+I feel like struggling to stay awake while studying statistics.,Bored
+This statistics textbook is the most tedious thing I've ever read.,Bored
+this statistics textbook is the most tedious thing i've ever read,Bored
+This statistics textbook is the most tedious thing I've ever read.!,Bored
+"Honestly, this statistics textbook is the most tedious thing I've ever read.",Bored
+I feel like this statistics textbook is the most tedious thing I've ever read.,Bored
+I feel really good about my understanding of statistics.,Confident
+i feel really good about my understanding of statistics,Confident
+I feel really good about my understanding of statistics.!,Confident
+"Honestly, i feel really good about my understanding of statistics.",Confident
+I feel like i feel really good about my understanding of statistics.,Confident
+I solved all the statistics homework problems easily.,Confident
+i solved all the statistics homework problems easily,Confident
+I solved all the statistics homework problems easily.!,Confident
+"Honestly, i solved all the statistics homework problems easily.",Confident
+I feel like i solved all the statistics homework problems easily.,Confident
+I'm ready to ace this statistics test.,Confident
+i'm ready to ace this statistics test,Confident
+I'm ready to ace this statistics test.!,Confident
+"Honestly, i'm ready to ace this statistics test.",Confident
+I feel like i'm ready to ace this statistics test.,Confident
+Understanding statistics has been super smooth for me.,Confident
+understanding statistics has been super smooth for me,Confident
+Understanding statistics has been super smooth for me.!,Confident
+"Honestly, understanding statistics has been super smooth for me.",Confident
+I feel like understanding statistics has been super smooth for me.,Confident
+I can confidently implement the core concepts of statistics.,Confident
+i can confidently implement the core concepts of statistics,Confident
+I can confidently implement the core concepts of statistics.!,Confident
+"Honestly, i can confidently implement the core concepts of statistics.",Confident
+I feel like i can confidently implement the core concepts of statistics.,Confident
+I'm completely lost when it comes to statistics.,Confused
+i'm completely lost when it comes to statistics,Confused
+I'm completely lost when it comes to statistics.!,Confused
+"Honestly, i'm completely lost when it comes to statistics.",Confused
+I feel like i'm completely lost when it comes to statistics.,Confused
+Can someone help explain statistics? I don't understand it.,Confused
+can someone help explain statistics? i don't understand it,Confused
+Can someone help explain statistics? I don't understand it.!,Confused
+"Honestly, can someone help explain statistics? I don't understand it.",Confused
+I feel like can someone help explain statistics? I don't understand it.,Confused
+I don't know what is going on in statistics class.,Confused
+i don't know what is going on in statistics class,Confused
+I don't know what is going on in statistics class.!,Confused
+"Honestly, i don't know what is going on in statistics class.",Confused
+I feel like i don't know what is going on in statistics class.,Confused
+The concept of statistics is very confusing to me.,Confused
+the concept of statistics is very confusing to me,Confused
+The concept of statistics is very confusing to me.!,Confused
+"Honestly, the concept of statistics is very confusing to me.",Confused
+I feel like the concept of statistics is very confusing to me.,Confused
+"I'm stuck on statistics basics, I need a tutor.",Confused
+"i'm stuck on statistics basics, i need a tutor",Confused
+"I'm stuck on statistics basics, I need a tutor.!",Confused
+"Honestly, i'm stuck on statistics basics, I need a tutor.",Confused
+"I feel like i'm stuck on statistics basics, I need a tutor.",Confused
+I really want to dive deeper into statistics applications.,Curious
+i really want to dive deeper into statistics applications,Curious
+I really want to dive deeper into statistics applications.!,Curious
+"Honestly, i really want to dive deeper into statistics applications.",Curious
+I feel like i really want to dive deeper into statistics applications.,Curious
+I'm curious about how statistics works in the industry.,Curious
+i'm curious about how statistics works in the industry,Curious
+I'm curious about how statistics works in the industry.!,Curious
+"Honestly, i'm curious about how statistics works in the industry.",Curious
+I feel like i'm curious about how statistics works in the industry.,Curious
+How does statistics relate to real-world software systems?,Curious
+how does statistics relate to real-world software systems?,Curious
+How does statistics relate to real-world software systems?!,Curious
+"Honestly, how does statistics relate to real-world software systems?",Curious
+I feel like how does statistics relate to real-world software systems?,Curious
+I want to know more about the advanced topics in statistics.,Curious
+i want to know more about the advanced topics in statistics,Curious
+I want to know more about the advanced topics in statistics.!,Curious
+"Honestly, i want to know more about the advanced topics in statistics.",Curious
+I feel like i want to know more about the advanced topics in statistics.,Curious
+Are there any projects I can build to master statistics?,Curious
+are there any projects i can build to master statistics?,Curious
+Are there any projects I can build to master statistics?!,Curious
+"Honestly, are there any projects I can build to master statistics?",Curious
+I feel like are there any projects I can build to master statistics?,Curious
+I'm so frustrated with this statistics homework.,Frustrated
+i'm so frustrated with this statistics homework,Frustrated
+I'm so frustrated with this statistics homework.!,Frustrated
+"Honestly, i'm so frustrated with this statistics homework.",Frustrated
+I feel like i'm so frustrated with this statistics homework.,Frustrated
+I've been trying to solve this statistics issue for hours.,Frustrated
+i've been trying to solve this statistics issue for hours,Frustrated
+I've been trying to solve this statistics issue for hours.!,Frustrated
+"Honestly, i've been trying to solve this statistics issue for hours.",Frustrated
+I feel like i've been trying to solve this statistics issue for hours.,Frustrated
+This statistics lab is absolute torture.,Frustrated
+this statistics lab is absolute torture,Frustrated
+This statistics lab is absolute torture.!,Frustrated
+"Honestly, this statistics lab is absolute torture.",Frustrated
+I feel like this statistics lab is absolute torture.,Frustrated
+I keep failing the tests for statistics and I'm losing my mind.,Frustrated
+i keep failing the tests for statistics and i'm losing my mind,Frustrated
+I keep failing the tests for statistics and I'm losing my mind.!,Frustrated
+"Honestly, i keep failing the tests for statistics and I'm losing my mind.",Frustrated
+I feel like i keep failing the tests for statistics and I'm losing my mind.,Frustrated
+Nothing makes sense in statistics and it's extremely annoying.,Frustrated
+nothing makes sense in statistics and it's extremely annoying,Frustrated
+Nothing makes sense in statistics and it's extremely annoying.!,Frustrated
+"Honestly, nothing makes sense in statistics and it's extremely annoying.",Frustrated
+I feel like nothing makes sense in statistics and it's extremely annoying.,Frustrated
+"Honestly, organic chemistry is so boring.",Bored
+"honestly, organic chemistry is so boring",Bored
+"Honestly, organic chemistry is so boring.!",Bored
+"Honestly, honestly, organic chemistry is so boring.",Bored
+"I feel like honestly, organic chemistry is so boring.",Bored
+I can't pay attention to organic chemistry lectures at all.,Bored
+i can't pay attention to organic chemistry lectures at all,Bored
+I can't pay attention to organic chemistry lectures at all.!,Bored
+"Honestly, i can't pay attention to organic chemistry lectures at all.",Bored
+I feel like i can't pay attention to organic chemistry lectures at all.,Bored
+Why do we study organic chemistry? It's just pointless memorization.,Bored
+why do we study organic chemistry? it's just pointless memorization,Bored
+Why do we study organic chemistry? It's just pointless memorization.!,Bored
+"Honestly, why do we study organic chemistry? It's just pointless memorization.",Bored
+I feel like why do we study organic chemistry? It's just pointless memorization.,Bored
+Struggling to stay awake while studying organic chemistry.,Bored
+struggling to stay awake while studying organic chemistry,Bored
+Struggling to stay awake while studying organic chemistry.!,Bored
+"Honestly, struggling to stay awake while studying organic chemistry.",Bored
+I feel like struggling to stay awake while studying organic chemistry.,Bored
+This organic chemistry textbook is the most tedious thing I've ever read.,Bored
+this organic chemistry textbook is the most tedious thing i've ever read,Bored
+This organic chemistry textbook is the most tedious thing I've ever read.!,Bored
+"Honestly, this organic chemistry textbook is the most tedious thing I've ever read.",Bored
+I feel like this organic chemistry textbook is the most tedious thing I've ever read.,Bored
+I feel really good about my understanding of organic chemistry.,Confident
+i feel really good about my understanding of organic chemistry,Confident
+I feel really good about my understanding of organic chemistry.!,Confident
+"Honestly, i feel really good about my understanding of organic chemistry.",Confident
+I feel like i feel really good about my understanding of organic chemistry.,Confident
+I solved all the organic chemistry homework problems easily.,Confident
+i solved all the organic chemistry homework problems easily,Confident
+I solved all the organic chemistry homework problems easily.!,Confident
+"Honestly, i solved all the organic chemistry homework problems easily.",Confident
+I feel like i solved all the organic chemistry homework problems easily.,Confident
+I'm ready to ace this organic chemistry test.,Confident
+i'm ready to ace this organic chemistry test,Confident
+I'm ready to ace this organic chemistry test.!,Confident
+"Honestly, i'm ready to ace this organic chemistry test.",Confident
+I feel like i'm ready to ace this organic chemistry test.,Confident
+Understanding organic chemistry has been super smooth for me.,Confident
+understanding organic chemistry has been super smooth for me,Confident
+Understanding organic chemistry has been super smooth for me.!,Confident
+"Honestly, understanding organic chemistry has been super smooth for me.",Confident
+I feel like understanding organic chemistry has been super smooth for me.,Confident
+I can confidently implement the core concepts of organic chemistry.,Confident
+i can confidently implement the core concepts of organic chemistry,Confident
+I can confidently implement the core concepts of organic chemistry.!,Confident
+"Honestly, i can confidently implement the core concepts of organic chemistry.",Confident
+I feel like i can confidently implement the core concepts of organic chemistry.,Confident
+I'm completely lost when it comes to organic chemistry.,Confused
+i'm completely lost when it comes to organic chemistry,Confused
+I'm completely lost when it comes to organic chemistry.!,Confused
+"Honestly, i'm completely lost when it comes to organic chemistry.",Confused
+I feel like i'm completely lost when it comes to organic chemistry.,Confused
+Can someone help explain organic chemistry? I don't understand it.,Confused
+can someone help explain organic chemistry? i don't understand it,Confused
+Can someone help explain organic chemistry? I don't understand it.!,Confused
+"Honestly, can someone help explain organic chemistry? I don't understand it.",Confused
+I feel like can someone help explain organic chemistry? I don't understand it.,Confused
+I don't know what is going on in organic chemistry class.,Confused
+i don't know what is going on in organic chemistry class,Confused
+I don't know what is going on in organic chemistry class.!,Confused
+"Honestly, i don't know what is going on in organic chemistry class.",Confused
+I feel like i don't know what is going on in organic chemistry class.,Confused
+The concept of organic chemistry is very confusing to me.,Confused
+the concept of organic chemistry is very confusing to me,Confused
+The concept of organic chemistry is very confusing to me.!,Confused
+"Honestly, the concept of organic chemistry is very confusing to me.",Confused
+I feel like the concept of organic chemistry is very confusing to me.,Confused
+"I'm stuck on organic chemistry basics, I need a tutor.",Confused
+"i'm stuck on organic chemistry basics, i need a tutor",Confused
+"I'm stuck on organic chemistry basics, I need a tutor.!",Confused
+"Honestly, i'm stuck on organic chemistry basics, I need a tutor.",Confused
+"I feel like i'm stuck on organic chemistry basics, I need a tutor.",Confused
+I really want to dive deeper into organic chemistry applications.,Curious
+i really want to dive deeper into organic chemistry applications,Curious
+I really want to dive deeper into organic chemistry applications.!,Curious
+"Honestly, i really want to dive deeper into organic chemistry applications.",Curious
+I feel like i really want to dive deeper into organic chemistry applications.,Curious
+I'm curious about how organic chemistry works in the industry.,Curious
+i'm curious about how organic chemistry works in the industry,Curious
+I'm curious about how organic chemistry works in the industry.!,Curious
+"Honestly, i'm curious about how organic chemistry works in the industry.",Curious
+I feel like i'm curious about how organic chemistry works in the industry.,Curious
+How does organic chemistry relate to real-world software systems?,Curious
+how does organic chemistry relate to real-world software systems?,Curious
+How does organic chemistry relate to real-world software systems?!,Curious
+"Honestly, how does organic chemistry relate to real-world software systems?",Curious
+I feel like how does organic chemistry relate to real-world software systems?,Curious
+I want to know more about the advanced topics in organic chemistry.,Curious
+i want to know more about the advanced topics in organic chemistry,Curious
+I want to know more about the advanced topics in organic chemistry.!,Curious
+"Honestly, i want to know more about the advanced topics in organic chemistry.",Curious
+I feel like i want to know more about the advanced topics in organic chemistry.,Curious
+Are there any projects I can build to master organic chemistry?,Curious
+are there any projects i can build to master organic chemistry?,Curious
+Are there any projects I can build to master organic chemistry?!,Curious
+"Honestly, are there any projects I can build to master organic chemistry?",Curious
+I feel like are there any projects I can build to master organic chemistry?,Curious
+I'm so frustrated with this organic chemistry homework.,Frustrated
+i'm so frustrated with this organic chemistry homework,Frustrated
+I'm so frustrated with this organic chemistry homework.!,Frustrated
+"Honestly, i'm so frustrated with this organic chemistry homework.",Frustrated
+I feel like i'm so frustrated with this organic chemistry homework.,Frustrated
+I've been trying to solve this organic chemistry issue for hours.,Frustrated
+i've been trying to solve this organic chemistry issue for hours,Frustrated
+I've been trying to solve this organic chemistry issue for hours.!,Frustrated
+"Honestly, i've been trying to solve this organic chemistry issue for hours.",Frustrated
+I feel like i've been trying to solve this organic chemistry issue for hours.,Frustrated
+This organic chemistry lab is absolute torture.,Frustrated
+this organic chemistry lab is absolute torture,Frustrated
+This organic chemistry lab is absolute torture.!,Frustrated
+"Honestly, this organic chemistry lab is absolute torture.",Frustrated
+I feel like this organic chemistry lab is absolute torture.,Frustrated
+I keep failing the tests for organic chemistry and I'm losing my mind.,Frustrated
+i keep failing the tests for organic chemistry and i'm losing my mind,Frustrated
+I keep failing the tests for organic chemistry and I'm losing my mind.!,Frustrated
+"Honestly, i keep failing the tests for organic chemistry and I'm losing my mind.",Frustrated
+I feel like i keep failing the tests for organic chemistry and I'm losing my mind.,Frustrated
+Nothing makes sense in organic chemistry and it's extremely annoying.,Frustrated
+nothing makes sense in organic chemistry and it's extremely annoying,Frustrated
+Nothing makes sense in organic chemistry and it's extremely annoying.!,Frustrated
+"Honestly, nothing makes sense in organic chemistry and it's extremely annoying.",Frustrated
+I feel like nothing makes sense in organic chemistry and it's extremely annoying.,Frustrated
+"Honestly, linear algebra is so boring.",Bored
+"honestly, linear algebra is so boring",Bored
+"Honestly, linear algebra is so boring.!",Bored
+"Honestly, honestly, linear algebra is so boring.",Bored
+"I feel like honestly, linear algebra is so boring.",Bored
+I can't pay attention to linear algebra lectures at all.,Bored
+i can't pay attention to linear algebra lectures at all,Bored
+I can't pay attention to linear algebra lectures at all.!,Bored
+"Honestly, i can't pay attention to linear algebra lectures at all.",Bored
+I feel like i can't pay attention to linear algebra lectures at all.,Bored
+Why do we study linear algebra? It's just pointless memorization.,Bored
+why do we study linear algebra? it's just pointless memorization,Bored
+Why do we study linear algebra? It's just pointless memorization.!,Bored
+"Honestly, why do we study linear algebra? It's just pointless memorization.",Bored
+I feel like why do we study linear algebra? It's just pointless memorization.,Bored
+Struggling to stay awake while studying linear algebra.,Bored
+struggling to stay awake while studying linear algebra,Bored
+Struggling to stay awake while studying linear algebra.!,Bored
+"Honestly, struggling to stay awake while studying linear algebra.",Bored
+I feel like struggling to stay awake while studying linear algebra.,Bored
+This linear algebra textbook is the most tedious thing I've ever read.,Bored
+this linear algebra textbook is the most tedious thing i've ever read,Bored
+This linear algebra textbook is the most tedious thing I've ever read.!,Bored
+"Honestly, this linear algebra textbook is the most tedious thing I've ever read.",Bored
+I feel like this linear algebra textbook is the most tedious thing I've ever read.,Bored
+I feel really good about my understanding of linear algebra.,Confident
+i feel really good about my understanding of linear algebra,Confident
+I feel really good about my understanding of linear algebra.!,Confident
+"Honestly, i feel really good about my understanding of linear algebra.",Confident
+I feel like i feel really good about my understanding of linear algebra.,Confident
+I solved all the linear algebra homework problems easily.,Confident
+i solved all the linear algebra homework problems easily,Confident
+I solved all the linear algebra homework problems easily.!,Confident
+"Honestly, i solved all the linear algebra homework problems easily.",Confident
+I feel like i solved all the linear algebra homework problems easily.,Confident
+I'm ready to ace this linear algebra test.,Confident
+i'm ready to ace this linear algebra test,Confident
+I'm ready to ace this linear algebra test.!,Confident
+"Honestly, i'm ready to ace this linear algebra test.",Confident
+I feel like i'm ready to ace this linear algebra test.,Confident
+Understanding linear algebra has been super smooth for me.,Confident
+understanding linear algebra has been super smooth for me,Confident
+Understanding linear algebra has been super smooth for me.!,Confident
+"Honestly, understanding linear algebra has been super smooth for me.",Confident
+I feel like understanding linear algebra has been super smooth for me.,Confident
+I can confidently implement the core concepts of linear algebra.,Confident
+i can confidently implement the core concepts of linear algebra,Confident
+I can confidently implement the core concepts of linear algebra.!,Confident
+"Honestly, i can confidently implement the core concepts of linear algebra.",Confident
+I feel like i can confidently implement the core concepts of linear algebra.,Confident
+I'm completely lost when it comes to linear algebra.,Confused
+i'm completely lost when it comes to linear algebra,Confused
+I'm completely lost when it comes to linear algebra.!,Confused
+"Honestly, i'm completely lost when it comes to linear algebra.",Confused
+I feel like i'm completely lost when it comes to linear algebra.,Confused
+Can someone help explain linear algebra? I don't understand it.,Confused
+can someone help explain linear algebra? i don't understand it,Confused
+Can someone help explain linear algebra? I don't understand it.!,Confused
+"Honestly, can someone help explain linear algebra? I don't understand it.",Confused
+I feel like can someone help explain linear algebra? I don't understand it.,Confused
+I don't know what is going on in linear algebra class.,Confused
+i don't know what is going on in linear algebra class,Confused
+I don't know what is going on in linear algebra class.!,Confused
+"Honestly, i don't know what is going on in linear algebra class.",Confused
+I feel like i don't know what is going on in linear algebra class.,Confused
+The concept of linear algebra is very confusing to me.,Confused
+the concept of linear algebra is very confusing to me,Confused
+The concept of linear algebra is very confusing to me.!,Confused
+"Honestly, the concept of linear algebra is very confusing to me.",Confused
+I feel like the concept of linear algebra is very confusing to me.,Confused
+"I'm stuck on linear algebra basics, I need a tutor.",Confused
+"i'm stuck on linear algebra basics, i need a tutor",Confused
+"I'm stuck on linear algebra basics, I need a tutor.!",Confused
+"Honestly, i'm stuck on linear algebra basics, I need a tutor.",Confused
+"I feel like i'm stuck on linear algebra basics, I need a tutor.",Confused
+I really want to dive deeper into linear algebra applications.,Curious
+i really want to dive deeper into linear algebra applications,Curious
+I really want to dive deeper into linear algebra applications.!,Curious
+"Honestly, i really want to dive deeper into linear algebra applications.",Curious
+I feel like i really want to dive deeper into linear algebra applications.,Curious
+I'm curious about how linear algebra works in the industry.,Curious
+i'm curious about how linear algebra works in the industry,Curious
+I'm curious about how linear algebra works in the industry.!,Curious
+"Honestly, i'm curious about how linear algebra works in the industry.",Curious
+I feel like i'm curious about how linear algebra works in the industry.,Curious
+How does linear algebra relate to real-world software systems?,Curious
+how does linear algebra relate to real-world software systems?,Curious
+How does linear algebra relate to real-world software systems?!,Curious
+"Honestly, how does linear algebra relate to real-world software systems?",Curious
+I feel like how does linear algebra relate to real-world software systems?,Curious
+I want to know more about the advanced topics in linear algebra.,Curious
+i want to know more about the advanced topics in linear algebra,Curious
+I want to know more about the advanced topics in linear algebra.!,Curious
+"Honestly, i want to know more about the advanced topics in linear algebra.",Curious
+I feel like i want to know more about the advanced topics in linear algebra.,Curious
+Are there any projects I can build to master linear algebra?,Curious
+are there any projects i can build to master linear algebra?,Curious
+Are there any projects I can build to master linear algebra?!,Curious
+"Honestly, are there any projects I can build to master linear algebra?",Curious
+I feel like are there any projects I can build to master linear algebra?,Curious
+I'm so frustrated with this linear algebra homework.,Frustrated
+i'm so frustrated with this linear algebra homework,Frustrated
+I'm so frustrated with this linear algebra homework.!,Frustrated
+"Honestly, i'm so frustrated with this linear algebra homework.",Frustrated
+I feel like i'm so frustrated with this linear algebra homework.,Frustrated
+I've been trying to solve this linear algebra issue for hours.,Frustrated
+i've been trying to solve this linear algebra issue for hours,Frustrated
+I've been trying to solve this linear algebra issue for hours.!,Frustrated
+"Honestly, i've been trying to solve this linear algebra issue for hours.",Frustrated
+I feel like i've been trying to solve this linear algebra issue for hours.,Frustrated
+This linear algebra lab is absolute torture.,Frustrated
+this linear algebra lab is absolute torture,Frustrated
+This linear algebra lab is absolute torture.!,Frustrated
+"Honestly, this linear algebra lab is absolute torture.",Frustrated
+I feel like this linear algebra lab is absolute torture.,Frustrated
+I keep failing the tests for linear algebra and I'm losing my mind.,Frustrated
+i keep failing the tests for linear algebra and i'm losing my mind,Frustrated
+I keep failing the tests for linear algebra and I'm losing my mind.!,Frustrated
+"Honestly, i keep failing the tests for linear algebra and I'm losing my mind.",Frustrated
+I feel like i keep failing the tests for linear algebra and I'm losing my mind.,Frustrated
+Nothing makes sense in linear algebra and it's extremely annoying.,Frustrated
+nothing makes sense in linear algebra and it's extremely annoying,Frustrated
+Nothing makes sense in linear algebra and it's extremely annoying.!,Frustrated
+"Honestly, nothing makes sense in linear algebra and it's extremely annoying.",Frustrated
+I feel like nothing makes sense in linear algebra and it's extremely annoying.,Frustrated
